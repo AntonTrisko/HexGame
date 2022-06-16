@@ -1,0 +1,20 @@
+animations:
+elf_flag: loop 0-80
+elf_house: door_open 0-25, door_close 26-55
+elf_factory: door_open 0-25, door_close 26-55, loop 55-145
+elf_barrack: door_open 0-25, door_close 26-55
+elf_oracle: loop 0-60
+elf_smithy: door_open 0-25, door_close 26-55, loop 55-145
+elf_cauldron: loop 0-80
+elf_woodcutter: door_open 0-25, door_close 26-55, loop 80-160
+elf_mine: in 0-40, out 41-83, tip_in_out 84-121
+elf_throne: loop 0-80
+
+part animations:
+elf_bellow: loop 0-91
+elf_cauldron: loop 0-80
+elf_flag: loop 0-80
+elf_cauldron_lv3: loop 0-80
+elf_door_anim: door_open 0-25, door_close 26-55
+elf_cog_small_anim: 0-80
+elf_cog_big_anim: 0-80

@@ -1,0 +1,1867 @@
+fileFormatVersion: 2
+guid: cbbf039bf287af6458670871ccf26e9a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' smithy_door_handler_left'
+    100002: ' smithy_door_handler_right'
+    100004: animated_flag
+    100006: anvil
+    100008: anvil_big
+    100010: Armature_cauldron
+    100012: Armature_cauldron_face
+    100014: Armature_cauldron_Lv1
+    100016: Armature_cauldron_Lv2.002
+    100018: Armature_cauldron_Lv3
+    100020: Armature_oracle_cauldron
+    100022: Armature_oracle_cauldron_Lv1
+    100024: Armature_oracle_cauldron_Lv2
+    100026: Armature_oracle_cauldron_Lv3
+    100028: Armature_smithy_Lv3_bellow
+    100030: Armiture_banner_flag
+    100032: Armiture_Bellow
+    100034: Armiture_flag
+    100036: Armiture_hanging_lamp
+    100038: Armiture_oracle_Lv1_flag_back
+    100040: Armiture_oracle_Lv1_flag_front
+    100042: Armiture_oracle_Lv1_lamp_center_left
+    100044: Armiture_oracle_Lv1_lamp_side_left
+    100046: Armiture_oracle_Lv1_lamp_side_right
+    100048: Armiture_oracle_Lv1_lamp_side_right.001
+    100050: Armiture_oracle_Lv2_flag_back
+    100052: Armiture_oracle_Lv2_flag_front
+    100054: Armiture_oracle_Lv2_lamp_center_left
+    100056: Armiture_oracle_Lv2_lamp_center_right
+    100058: Armiture_oracle_Lv2_lamp_side_left
+    100060: Armiture_oracle_Lv2_lamp_side_right
+    100062: Armiture_oracle_Lv3_flag_back
+    100064: Armiture_oracle_Lv3_flag_front
+    100066: Armiture_oracle_Lv3_lamp_center_left
+    100068: Armiture_oracle_Lv3_lamp_center_right
+    100070: Armiture_oracle_Lv3_lamp_front_left
+    100072: Armiture_oracle_Lv3_lamp_front_right
+    100074: Armiture_oracle_Lv3_lamp_side_left
+    100076: Armiture_oracle_Lv3_lamp_side_left_2
+    100078: Armiture_oracle_Lv3_lamp_side_right
+    100080: Armiture_oracle_Lv3_lamp_side_right_2
+    100082: Armiture_throne_Lv1_flag
+    100084: Armiture_throne_Lv2_flag_center
+    100086: Armiture_throne_Lv2_flag_left
+    100088: Armiture_throne_Lv2_flag_right
+    100090: Armiture_throne_Lv3_flag_center
+    100092: Armiture_throne_Lv3_flag_right
+    100094: Armiture_throne_Lv3_flag_right_left
+    100096: axe
+    100098: back_door
+    100100: back_door_handler
+    100102: banner
+    100104: banner_flag
+    100106: barrack_Lv1
+    100108: barrack_Lv1_door
+    100110: barrack_Lv1_door_handler
+    100112: barrack_Lv2
+    100114: barrack_Lv2_door
+    100116: barrack_Lv2_door_handler
+    100118: barrack_Lv3
+    100120: barrack_Lv3_door
+    100122: barrack_Lv3_door_handler
+    100124: barrel
+    100126: bellow
+    100128: big_door_handler_left
+    100130: big_door_handler_right
+    100132: big_door_left
+    100134: big_door_right
+    100136: Bone_01
+    100138: Bone_01 1
+    100140: Bone_01 10
+    100142: Bone_01 11
+    100144: Bone_01 12
+    100146: Bone_01 13
+    100148: Bone_01 14
+    100150: Bone_01 15
+    100152: Bone_01 16
+    100154: Bone_01 17
+    100156: Bone_01 18
+    100158: Bone_01 19
+    100160: Bone_01 2
+    100162: Bone_01 20
+    100164: Bone_01 21
+    100166: Bone_01 22
+    100168: Bone_01 23
+    100170: Bone_01 24
+    100172: Bone_01 25
+    100174: Bone_01 26
+    100176: Bone_01 27
+    100178: Bone_01 28
+    100180: Bone_01 29
+    100182: Bone_01 3
+    100184: Bone_01 30
+    100186: Bone_01 31
+    100188: Bone_01 4
+    100190: Bone_01 5
+    100192: Bone_01 6
+    100194: Bone_01 7
+    100196: Bone_01 8
+    100198: Bone_01 9
+    100200: Bone_02
+    100202: Bone_02 1
+    100204: Bone_02 10
+    100206: Bone_02 11
+    100208: Bone_02 12
+    100210: Bone_02 13
+    100212: Bone_02 14
+    100214: Bone_02 15
+    100216: Bone_02 16
+    100218: Bone_02 17
+    100220: Bone_02 18
+    100222: Bone_02 19
+    100224: Bone_02 2
+    100226: Bone_02 20
+    100228: Bone_02 21
+    100230: Bone_02 22
+    100232: Bone_02 23
+    100234: Bone_02 24
+    100236: Bone_02 25
+    100238: Bone_02 26
+    100240: Bone_02 27
+    100242: Bone_02 28
+    100244: Bone_02 29
+    100246: Bone_02 3
+    100248: Bone_02 30
+    100250: Bone_02 31
+    100252: Bone_02 4
+    100254: Bone_02 5
+    100256: Bone_02 6
+    100258: Bone_02 7
+    100260: Bone_02 8
+    100262: Bone_02 9
+    100264: Bone_arm
+    100266: Bone_arm 1
+    100268: Bone_arm 2
+    100270: Bone_arm 3
+    100272: Bone_bellow_upper_part
+    100274: Bone_bellow_upper_part 1
+    100276: Bone_bellow_upper_part 2
+    100278: Bone_bellow_upper_part 3
+    100280: Bone_bubble_big
+    100282: Bone_bubble_big 1
+    100284: Bone_bubble_big 2
+    100286: Bone_bubble_big 3
+    100288: Bone_bubble_big 4
+    100290: Bone_bubble_big 5
+    100292: Bone_bubble_big 6
+    100294: Bone_bubble_big 7
+    100296: Bone_bubble_big 8
+    100298: Bone_bubble_mid
+    100300: Bone_bubble_mid 1
+    100302: Bone_bubble_mid 2
+    100304: Bone_bubble_mid 3
+    100306: Bone_bubble_mid 4
+    100308: Bone_bubble_mid 5
+    100310: Bone_bubble_mid 6
+    100312: Bone_bubble_mid 7
+    100314: Bone_bubble_mid 8
+    100316: Bone_bubble_small
+    100318: Bone_bubble_small 1
+    100320: Bone_bubble_small 2
+    100322: Bone_bubble_small 3
+    100324: Bone_bubble_small 4
+    100326: Bone_bubble_small 5
+    100328: Bone_bubble_small 6
+    100330: Bone_bubble_small 7
+    100332: Bone_bubble_small 8
+    100334: Bone_cauldron
+    100336: Bone_cauldron 1
+    100338: Bone_cauldron 2
+    100340: Bone_cauldron 3
+    100342: Bone_cauldron 4
+    100344: Bone_cauldron 5
+    100346: Bone_cauldron 6
+    100348: Bone_cauldron 7
+    100350: Bone_cauldron 8
+    100352: Bone_cauldron_handler_01
+    100354: Bone_cauldron_handler_01 1
+    100356: Bone_cauldron_handler_01 2
+    100358: Bone_cauldron_handler_01 3
+    100360: Bone_cauldron_handler_02
+    100362: Bone_cauldron_handler_02 1
+    100364: Bone_cauldron_handler_02 2
+    100366: Bone_cauldron_handler_02 3
+    100368: Bone_cauldron_handler_03
+    100370: Bone_cauldron_handler_03 1
+    100372: Bone_cauldron_handler_03 2
+    100374: Bone_cauldron_handler_03 3
+    100376: Bone_root
+    100378: bone_root
+    100380: Bone_root 1
+    100382: bone_root 1
+    100384: Bone_root 10
+    100386: Bone_root 11
+    100388: Bone_root 12
+    100390: Bone_root 13
+    100392: Bone_root 14
+    100394: Bone_root 15
+    100396: Bone_root 16
+    100398: Bone_root 17
+    100400: Bone_root 18
+    100402: Bone_root 19
+    100404: Bone_root 2
+    100406: bone_root 2
+    100408: Bone_root 20
+    100410: Bone_root 21
+    100412: Bone_root 22
+    100414: Bone_root 23
+    100416: Bone_root 24
+    100418: Bone_root 25
+    100420: Bone_root 26
+    100422: Bone_root 27
+    100424: Bone_root 28
+    100426: Bone_root 29
+    100428: Bone_root 3
+    100430: bone_root 3
+    100432: Bone_root 30
+    100434: Bone_root 31
+    100436: Bone_root 32
+    100438: Bone_root 33
+    100440: Bone_root 34
+    100442: Bone_root 35
+    100444: Bone_root 4
+    100446: bone_root 4
+    100448: Bone_root 5
+    100450: bone_root 5
+    100452: Bone_root 6
+    100454: bone_root 6
+    100456: Bone_root 7
+    100458: bone_root 7
+    100460: Bone_root 8
+    100462: bone_root 8
+    100464: Bone_root 9
+    100466: box_large_1
+    100468: box_large_2
+    100470: box_small_1
+    100472: box_small_2
+    100474: bucket
+    100476: campfire
+    100478: cauldron
+    100480: cauldron_face
+    100482: cauldron_Lv1
+    100484: cauldron_Lv2
+    100486: cauldron_Lv3
+    100488: cellar
+    100490: chimney
+    100492: chimney_big
+    100494: chimney_small
+    100496: cog_big
+    100498: cog_small
+    100500: Cube
+    100502: //RootNode
+    100504: door_small_right
+    100506: door_small_round
+    100508: doorway_small_round
+    100510: factory_building_Lv1
+    100512: factory_Lv1
+    100514: factory_Lv1_back_door
+    100516: factory_Lv1_back_door_handler
+    100518: factory_Lv1_big_door_handler_left
+    100520: factory_Lv1_big_door_handler_right
+    100522: factory_Lv1_big_door_left
+    100524: factory_Lv1_big_door_right
+    100526: factory_Lv1_chimney
+    100528: factory_Lv1_gear
+    100530: factory_Lv2
+    100532: factory_Lv2_back_door
+    100534: factory_Lv2_back_door_handler
+    100536: factory_Lv2_big_door_handler_left
+    100538: factory_Lv2_big_door_handler_right
+    100540: factory_Lv2_big_door_left
+    100542: factory_Lv2_big_door_right
+    100544: factory_Lv2_chimney
+    100546: factory_Lv2_gear
+    100548: factory_Lv2_gear_big
+    100550: factory_Lv2_gear_small
+    100552: factory_Lv2_oven
+    100554: factory_Lv2_oven_chimney_big
+    100556: factory_Lv2_oven_chimney_small
+    100558: factory_Lv3
+    100560: factory_Lv3_back_door
+    100562: factory_Lv3_back_door_handler
+    100564: factory_Lv3_big_door_handler_left
+    100566: factory_Lv3_big_door_handler_right
+    100568: factory_Lv3_big_door_left
+    100570: factory_Lv3_big_door_right
+    100572: factory_Lv3_chimney
+    100574: factory_Lv3_chimney_solo
+    100576: factory_Lv3_gear
+    100578: factory_Lv3_gear_big
+    100580: factory_Lv3_gear_big_back
+    100582: factory_Lv3_gear_small
+    100584: factory_Lv3_gear_small_back
+    100586: factory_Lv3_oven
+    100588: factory_Lv3_oven_chimney_big
+    100590: factory_Lv3_oven_chimney_small
+    100592: fire_caudron
+    100594: fire_plane
+    100596: flag_pole
+    100598: hanging_lamp
+    100600: house_big
+    100602: house_chimney
+    100604: house_Lv1
+    100606: house_Lv1_door
+    100608: house_Lv1_handler
+    100610: house_Lv2
+    100612: house_Lv2_door
+    100614: house_Lv2_door_handler
+    100616: house_Lv3
+    100618: house_Lv3_door
+    100620: house_Lv3_handler
+    100622: house_roof
+    100624: house_roof_small
+    100626: human_foundation_2x3
+    100628: human_foundation_4x5
+    100630: human_house_large
+    100632: human_house_mid
+    100634: human_house_small
+    100636: human_wall_foundation_1
+    100638: human_wall_foundation_2
+    100640: lantern_street
+    100642: lantern_wall_maunted
+    100644: metal_melter
+    100646: metal_plane
+    100648: mine_base
+    100650: mine_building_roof
+    100652: mine_building_stone
+    100654: mine_building_wood
+    100656: mine_enterance
+    100658: mine_Lv1
+    100660: mine_Lv1_minecart
+    100662: mine_Lv1_minecart_tipping_bucket
+    100664: mine_Lv2
+    100666: mine_Lv2_minecart
+    100668: mine_Lv2_minecart_tipping_bucket
+    100670: mine_Lv3
+    100672: mine_Lv3_minecart
+    100674: mine_Lv3_minecart_tipping_bucket
+    100676: mine_rail
+    100678: mine_rail_piece
+    100680: mine_stone_01
+    100682: mine_stone_02
+    100684: mine_stone_03
+    100686: mine_stone_04
+    100688: mine_stone_05
+    100690: minecart
+    100692: minecart_base_anim
+    100694: minecart_bucket_anim
+    100696: oracle_cauldron
+    100698: oracle_Lv1
+    100700: oracle_Lv1_cauldron
+    100702: oracle_Lv1_flag_back
+    100704: oracle_Lv1_flag_front
+    100706: oracle_Lv1_lamp_center_left
+    100708: oracle_Lv1_lamp_center_right
+    100710: oracle_Lv1_lamp_side_left
+    100712: oracle_Lv1_lamp_side_right
+    100714: oracle_Lv2
+    100716: oracle_Lv2_cauldron
+    100718: oracle_Lv2_flag_back
+    100720: oracle_Lv2_flag_front
+    100722: oracle_Lv2_lamp_center_left
+    100724: oracle_Lv2_lamp_center_right
+    100726: oracle_Lv2_lamp_side_left
+    100728: oracle_Lv2_lamp_side_right
+    100730: oracle_Lv3
+    100732: oracle_Lv3_cauldron
+    100734: oracle_Lv3_flag_back
+    100736: oracle_Lv3_flag_front
+    100738: oracle_Lv3_lamp_center_left
+    100740: oracle_Lv3_lamp_center_left.001
+    100742: oracle_Lv3_lamp_center_right
+    100744: oracle_Lv3_lamp_front_left
+    100746: oracle_Lv3_lamp_side_left
+    100748: oracle_Lv3_lamp_side_left_2
+    100750: oracle_Lv3_lamp_side_right
+    100752: oracle_Lv3_lamp_side_right_2
+    100754: oven.001
+    100756: oven_door
+    100758: oven_door_small
+    100760: palisade_pole
+    100762: pillar_1
+    100764: pillar_2
+    100766: practice_dummy
+    100768: saw
+    100770: saw_blade
+    100772: scaffolding_1x1_wall_mounted
+    100774: scaffolding_1x2_wall_mounted
+    100776: shield
+    100778: smirthy_door_left
+    100780: smithy_building
+    100782: smithy_door_right
+    100784: smithy_Lv1
+    100786: smithy_Lv1_Armiture_Bellow
+    100788: smithy_Lv1_bellow
+    100790: smithy_Lv1_door_handler_left
+    100792: smithy_Lv1_door_handler_right
+    100794: smithy_Lv1_door_left
+    100796: smithy_Lv1_door_right
+    100798: smithy_Lv2
+    100800: smithy_Lv2_Armature_bellow
+    100802: smithy_Lv2_bellow
+    100804: smithy_Lv2_door_handler_left
+    100806: smithy_Lv2_door_handler_right
+    100808: smithy_Lv2_door_left
+    100810: smithy_Lv2_door_right
+    100812: smithy_Lv3
+    100814: smithy_Lv3_bellow
+    100816: smithy_Lv3_door_handler_left
+    100818: smithy_Lv3_door_handler_right
+    100820: smithy_Lv3_door_left
+    100822: smithy_Lv3_door_right
+    100824: smithy_oven
+    100826: smithy_oven_big
+    100828: smithy_oven_mid
+    100830: spear
+    100832: stair_corner_conc_shade1
+    100834: stair_corner_conc_shade_2
+    100836: stair_corner_conc_shade_3
+    100838: stair_corner_conc_shade_4
+    100840: stair_corner_conc_shade_5
+    100842: stair_corner_conv_shade1
+    100844: stair_corner_conv_shade_2
+    100846: stair_corner_conv_shade_3
+    100848: stair_corner_conv_shade_4
+    100850: stair_corner_conv_shade_5
+    100852: stairs_half_1_shade_1
+    100854: stairs_half_1_shade_2
+    100856: stairs_half_1_shade_3
+    100858: stairs_half_1_shade_4
+    100860: stairs_half_1_shade_5
+    100862: stairs_half_2_shade_1
+    100864: stairs_half_2_shade_2
+    100866: stairs_half_2_shade_3
+    100868: stairs_half_2_shade_4
+    100870: stairs_half_2_shade_5
+    100872: stairs_shade_1
+    100874: stairs_shade_2
+    100876: stairs_shade_3
+    100878: stairs_shade_4
+    100880: stairs_shade_5
+    100882: target
+    100884: throne
+    100886: throne_Lv1
+    100888: throne_Lv1_flag
+    100890: throne_Lv2
+    100892: throne_Lv2_flag_center
+    100894: throne_Lv2_flag_left
+    100896: throne_Lv2_flag_right
+    100898: throne_Lv3
+    100900: throne_Lv3_flag_center
+    100902: throne_Lv3_flag_left
+    100904: throne_Lv3_flag_right
+    100906: tower_big
+    100908: tower_human_small_1
+    100910: tower_human_small_2
+    100912: tower_Lv1
+    100914: tower_Lv1_door
+    100916: tower_Lv1_door_handler
+    100918: tower_Lv2
+    100920: tower_Lv2_door
+    100922: tower_Lv2_door_handler
+    100924: tower_Lv3
+    100926: tower_Lv3_door
+    100928: tower_Lv3_door_handler
+    100930: trap_door
+    100932: trap_door_flap
+    100934: wall_beam_large
+    100936: wall_beam_small
+    100938: window
+    100940: wood_building
+    100942: wood_pile_big
+    100944: wood_pile_small
+    100946: woodcutter_building
+    100948: woodcutter_Lv1
+    100950: woodcutter_Lv1_door
+    100952: woodcutter_Lv1_door_handler
+    100954: woodcutter_Lv2
+    100956: woodcutter_Lv2_door
+    100958: woodcutter_Lv2_door_handler
+    100960: woodcutter_Lv2_saw
+    100962: woodcutter_Lv2_saw_blade
+    100964: woodcutter_Lv3
+    100966: woodcutter_Lv3_door
+    100968: woodcutter_Lv3_door_handler
+    100970: woodcutter_Lv3_saw
+    100972: woodcutter_Lv3_saw_blade_left
+    100974: woodcutter_Lv3_saw_blade_right
+    100976: wooden_roof
+    400000: ' smithy_door_handler_left'
+    400002: ' smithy_door_handler_right'
+    400004: animated_flag
+    400006: anvil
+    400008: anvil_big
+    400010: Armature_cauldron
+    400012: Armature_cauldron_face
+    400014: Armature_cauldron_Lv1
+    400016: Armature_cauldron_Lv2.002
+    400018: Armature_cauldron_Lv3
+    400020: Armature_oracle_cauldron
+    400022: Armature_oracle_cauldron_Lv1
+    400024: Armature_oracle_cauldron_Lv2
+    400026: Armature_oracle_cauldron_Lv3
+    400028: Armature_smithy_Lv3_bellow
+    400030: Armiture_banner_flag
+    400032: Armiture_Bellow
+    400034: Armiture_flag
+    400036: Armiture_hanging_lamp
+    400038: Armiture_oracle_Lv1_flag_back
+    400040: Armiture_oracle_Lv1_flag_front
+    400042: Armiture_oracle_Lv1_lamp_center_left
+    400044: Armiture_oracle_Lv1_lamp_side_left
+    400046: Armiture_oracle_Lv1_lamp_side_right
+    400048: Armiture_oracle_Lv1_lamp_side_right.001
+    400050: Armiture_oracle_Lv2_flag_back
+    400052: Armiture_oracle_Lv2_flag_front
+    400054: Armiture_oracle_Lv2_lamp_center_left
+    400056: Armiture_oracle_Lv2_lamp_center_right
+    400058: Armiture_oracle_Lv2_lamp_side_left
+    400060: Armiture_oracle_Lv2_lamp_side_right
+    400062: Armiture_oracle_Lv3_flag_back
+    400064: Armiture_oracle_Lv3_flag_front
+    400066: Armiture_oracle_Lv3_lamp_center_left
+    400068: Armiture_oracle_Lv3_lamp_center_right
+    400070: Armiture_oracle_Lv3_lamp_front_left
+    400072: Armiture_oracle_Lv3_lamp_front_right
+    400074: Armiture_oracle_Lv3_lamp_side_left
+    400076: Armiture_oracle_Lv3_lamp_side_left_2
+    400078: Armiture_oracle_Lv3_lamp_side_right
+    400080: Armiture_oracle_Lv3_lamp_side_right_2
+    400082: Armiture_throne_Lv1_flag
+    400084: Armiture_throne_Lv2_flag_center
+    400086: Armiture_throne_Lv2_flag_left
+    400088: Armiture_throne_Lv2_flag_right
+    400090: Armiture_throne_Lv3_flag_center
+    400092: Armiture_throne_Lv3_flag_right
+    400094: Armiture_throne_Lv3_flag_right_left
+    400096: axe
+    400098: back_door
+    400100: back_door_handler
+    400102: banner
+    400104: banner_flag
+    400106: barrack_Lv1
+    400108: barrack_Lv1_door
+    400110: barrack_Lv1_door_handler
+    400112: barrack_Lv2
+    400114: barrack_Lv2_door
+    400116: barrack_Lv2_door_handler
+    400118: barrack_Lv3
+    400120: barrack_Lv3_door
+    400122: barrack_Lv3_door_handler
+    400124: barrel
+    400126: bellow
+    400128: big_door_handler_left
+    400130: big_door_handler_right
+    400132: big_door_left
+    400134: big_door_right
+    400136: Bone_01
+    400138: Bone_01 1
+    400140: Bone_01 10
+    400142: Bone_01 11
+    400144: Bone_01 12
+    400146: Bone_01 13
+    400148: Bone_01 14
+    400150: Bone_01 15
+    400152: Bone_01 16
+    400154: Bone_01 17
+    400156: Bone_01 18
+    400158: Bone_01 19
+    400160: Bone_01 2
+    400162: Bone_01 20
+    400164: Bone_01 21
+    400166: Bone_01 22
+    400168: Bone_01 23
+    400170: Bone_01 24
+    400172: Bone_01 25
+    400174: Bone_01 26
+    400176: Bone_01 27
+    400178: Bone_01 28
+    400180: Bone_01 29
+    400182: Bone_01 3
+    400184: Bone_01 30
+    400186: Bone_01 31
+    400188: Bone_01 4
+    400190: Bone_01 5
+    400192: Bone_01 6
+    400194: Bone_01 7
+    400196: Bone_01 8
+    400198: Bone_01 9
+    400200: Bone_02
+    400202: Bone_02 1
+    400204: Bone_02 10
+    400206: Bone_02 11
+    400208: Bone_02 12
+    400210: Bone_02 13
+    400212: Bone_02 14
+    400214: Bone_02 15
+    400216: Bone_02 16
+    400218: Bone_02 17
+    400220: Bone_02 18
+    400222: Bone_02 19
+    400224: Bone_02 2
+    400226: Bone_02 20
+    400228: Bone_02 21
+    400230: Bone_02 22
+    400232: Bone_02 23
+    400234: Bone_02 24
+    400236: Bone_02 25
+    400238: Bone_02 26
+    400240: Bone_02 27
+    400242: Bone_02 28
+    400244: Bone_02 29
+    400246: Bone_02 3
+    400248: Bone_02 30
+    400250: Bone_02 31
+    400252: Bone_02 4
+    400254: Bone_02 5
+    400256: Bone_02 6
+    400258: Bone_02 7
+    400260: Bone_02 8
+    400262: Bone_02 9
+    400264: Bone_arm
+    400266: Bone_arm 1
+    400268: Bone_arm 2
+    400270: Bone_arm 3
+    400272: Bone_bellow_upper_part
+    400274: Bone_bellow_upper_part 1
+    400276: Bone_bellow_upper_part 2
+    400278: Bone_bellow_upper_part 3
+    400280: Bone_bubble_big
+    400282: Bone_bubble_big 1
+    400284: Bone_bubble_big 2
+    400286: Bone_bubble_big 3
+    400288: Bone_bubble_big 4
+    400290: Bone_bubble_big 5
+    400292: Bone_bubble_big 6
+    400294: Bone_bubble_big 7
+    400296: Bone_bubble_big 8
+    400298: Bone_bubble_mid
+    400300: Bone_bubble_mid 1
+    400302: Bone_bubble_mid 2
+    400304: Bone_bubble_mid 3
+    400306: Bone_bubble_mid 4
+    400308: Bone_bubble_mid 5
+    400310: Bone_bubble_mid 6
+    400312: Bone_bubble_mid 7
+    400314: Bone_bubble_mid 8
+    400316: Bone_bubble_small
+    400318: Bone_bubble_small 1
+    400320: Bone_bubble_small 2
+    400322: Bone_bubble_small 3
+    400324: Bone_bubble_small 4
+    400326: Bone_bubble_small 5
+    400328: Bone_bubble_small 6
+    400330: Bone_bubble_small 7
+    400332: Bone_bubble_small 8
+    400334: Bone_cauldron
+    400336: Bone_cauldron 1
+    400338: Bone_cauldron 2
+    400340: Bone_cauldron 3
+    400342: Bone_cauldron 4
+    400344: Bone_cauldron 5
+    400346: Bone_cauldron 6
+    400348: Bone_cauldron 7
+    400350: Bone_cauldron 8
+    400352: Bone_cauldron_handler_01
+    400354: Bone_cauldron_handler_01 1
+    400356: Bone_cauldron_handler_01 2
+    400358: Bone_cauldron_handler_01 3
+    400360: Bone_cauldron_handler_02
+    400362: Bone_cauldron_handler_02 1
+    400364: Bone_cauldron_handler_02 2
+    400366: Bone_cauldron_handler_02 3
+    400368: Bone_cauldron_handler_03
+    400370: Bone_cauldron_handler_03 1
+    400372: Bone_cauldron_handler_03 2
+    400374: Bone_cauldron_handler_03 3
+    400376: Bone_root
+    400378: bone_root
+    400380: Bone_root 1
+    400382: bone_root 1
+    400384: Bone_root 10
+    400386: Bone_root 11
+    400388: Bone_root 12
+    400390: Bone_root 13
+    400392: Bone_root 14
+    400394: Bone_root 15
+    400396: Bone_root 16
+    400398: Bone_root 17
+    400400: Bone_root 18
+    400402: Bone_root 19
+    400404: Bone_root 2
+    400406: bone_root 2
+    400408: Bone_root 20
+    400410: Bone_root 21
+    400412: Bone_root 22
+    400414: Bone_root 23
+    400416: Bone_root 24
+    400418: Bone_root 25
+    400420: Bone_root 26
+    400422: Bone_root 27
+    400424: Bone_root 28
+    400426: Bone_root 29
+    400428: Bone_root 3
+    400430: bone_root 3
+    400432: Bone_root 30
+    400434: Bone_root 31
+    400436: Bone_root 32
+    400438: Bone_root 33
+    400440: Bone_root 34
+    400442: Bone_root 35
+    400444: Bone_root 4
+    400446: bone_root 4
+    400448: Bone_root 5
+    400450: bone_root 5
+    400452: Bone_root 6
+    400454: bone_root 6
+    400456: Bone_root 7
+    400458: bone_root 7
+    400460: Bone_root 8
+    400462: bone_root 8
+    400464: Bone_root 9
+    400466: box_large_1
+    400468: box_large_2
+    400470: box_small_1
+    400472: box_small_2
+    400474: bucket
+    400476: campfire
+    400478: cauldron
+    400480: cauldron_face
+    400482: cauldron_Lv1
+    400484: cauldron_Lv2
+    400486: cauldron_Lv3
+    400488: cellar
+    400490: chimney
+    400492: chimney_big
+    400494: chimney_small
+    400496: cog_big
+    400498: cog_small
+    400500: Cube
+    400502: //RootNode
+    400504: door_small_right
+    400506: door_small_round
+    400508: doorway_small_round
+    400510: factory_building_Lv1
+    400512: factory_Lv1
+    400514: factory_Lv1_back_door
+    400516: factory_Lv1_back_door_handler
+    400518: factory_Lv1_big_door_handler_left
+    400520: factory_Lv1_big_door_handler_right
+    400522: factory_Lv1_big_door_left
+    400524: factory_Lv1_big_door_right
+    400526: factory_Lv1_chimney
+    400528: factory_Lv1_gear
+    400530: factory_Lv2
+    400532: factory_Lv2_back_door
+    400534: factory_Lv2_back_door_handler
+    400536: factory_Lv2_big_door_handler_left
+    400538: factory_Lv2_big_door_handler_right
+    400540: factory_Lv2_big_door_left
+    400542: factory_Lv2_big_door_right
+    400544: factory_Lv2_chimney
+    400546: factory_Lv2_gear
+    400548: factory_Lv2_gear_big
+    400550: factory_Lv2_gear_small
+    400552: factory_Lv2_oven
+    400554: factory_Lv2_oven_chimney_big
+    400556: factory_Lv2_oven_chimney_small
+    400558: factory_Lv3
+    400560: factory_Lv3_back_door
+    400562: factory_Lv3_back_door_handler
+    400564: factory_Lv3_big_door_handler_left
+    400566: factory_Lv3_big_door_handler_right
+    400568: factory_Lv3_big_door_left
+    400570: factory_Lv3_big_door_right
+    400572: factory_Lv3_chimney
+    400574: factory_Lv3_chimney_solo
+    400576: factory_Lv3_gear
+    400578: factory_Lv3_gear_big
+    400580: factory_Lv3_gear_big_back
+    400582: factory_Lv3_gear_small
+    400584: factory_Lv3_gear_small_back
+    400586: factory_Lv3_oven
+    400588: factory_Lv3_oven_chimney_big
+    400590: factory_Lv3_oven_chimney_small
+    400592: fire_caudron
+    400594: fire_plane
+    400596: flag_pole
+    400598: hanging_lamp
+    400600: house_big
+    400602: house_chimney
+    400604: house_Lv1
+    400606: house_Lv1_door
+    400608: house_Lv1_handler
+    400610: house_Lv2
+    400612: house_Lv2_door
+    400614: house_Lv2_door_handler
+    400616: house_Lv3
+    400618: house_Lv3_door
+    400620: house_Lv3_handler
+    400622: house_roof
+    400624: house_roof_small
+    400626: human_foundation_2x3
+    400628: human_foundation_4x5
+    400630: human_house_large
+    400632: human_house_mid
+    400634: human_house_small
+    400636: human_wall_foundation_1
+    400638: human_wall_foundation_2
+    400640: lantern_street
+    400642: lantern_wall_maunted
+    400644: metal_melter
+    400646: metal_plane
+    400648: mine_base
+    400650: mine_building_roof
+    400652: mine_building_stone
+    400654: mine_building_wood
+    400656: mine_enterance
+    400658: mine_Lv1
+    400660: mine_Lv1_minecart
+    400662: mine_Lv1_minecart_tipping_bucket
+    400664: mine_Lv2
+    400666: mine_Lv2_minecart
+    400668: mine_Lv2_minecart_tipping_bucket
+    400670: mine_Lv3
+    400672: mine_Lv3_minecart
+    400674: mine_Lv3_minecart_tipping_bucket
+    400676: mine_rail
+    400678: mine_rail_piece
+    400680: mine_stone_01
+    400682: mine_stone_02
+    400684: mine_stone_03
+    400686: mine_stone_04
+    400688: mine_stone_05
+    400690: minecart
+    400692: minecart_base_anim
+    400694: minecart_bucket_anim
+    400696: oracle_cauldron
+    400698: oracle_Lv1
+    400700: oracle_Lv1_cauldron
+    400702: oracle_Lv1_flag_back
+    400704: oracle_Lv1_flag_front
+    400706: oracle_Lv1_lamp_center_left
+    400708: oracle_Lv1_lamp_center_right
+    400710: oracle_Lv1_lamp_side_left
+    400712: oracle_Lv1_lamp_side_right
+    400714: oracle_Lv2
+    400716: oracle_Lv2_cauldron
+    400718: oracle_Lv2_flag_back
+    400720: oracle_Lv2_flag_front
+    400722: oracle_Lv2_lamp_center_left
+    400724: oracle_Lv2_lamp_center_right
+    400726: oracle_Lv2_lamp_side_left
+    400728: oracle_Lv2_lamp_side_right
+    400730: oracle_Lv3
+    400732: oracle_Lv3_cauldron
+    400734: oracle_Lv3_flag_back
+    400736: oracle_Lv3_flag_front
+    400738: oracle_Lv3_lamp_center_left
+    400740: oracle_Lv3_lamp_center_left.001
+    400742: oracle_Lv3_lamp_center_right
+    400744: oracle_Lv3_lamp_front_left
+    400746: oracle_Lv3_lamp_side_left
+    400748: oracle_Lv3_lamp_side_left_2
+    400750: oracle_Lv3_lamp_side_right
+    400752: oracle_Lv3_lamp_side_right_2
+    400754: oven.001
+    400756: oven_door
+    400758: oven_door_small
+    400760: palisade_pole
+    400762: pillar_1
+    400764: pillar_2
+    400766: practice_dummy
+    400768: saw
+    400770: saw_blade
+    400772: scaffolding_1x1_wall_mounted
+    400774: scaffolding_1x2_wall_mounted
+    400776: shield
+    400778: smirthy_door_left
+    400780: smithy_building
+    400782: smithy_door_right
+    400784: smithy_Lv1
+    400786: smithy_Lv1_Armiture_Bellow
+    400788: smithy_Lv1_bellow
+    400790: smithy_Lv1_door_handler_left
+    400792: smithy_Lv1_door_handler_right
+    400794: smithy_Lv1_door_left
+    400796: smithy_Lv1_door_right
+    400798: smithy_Lv2
+    400800: smithy_Lv2_Armature_bellow
+    400802: smithy_Lv2_bellow
+    400804: smithy_Lv2_door_handler_left
+    400806: smithy_Lv2_door_handler_right
+    400808: smithy_Lv2_door_left
+    400810: smithy_Lv2_door_right
+    400812: smithy_Lv3
+    400814: smithy_Lv3_bellow
+    400816: smithy_Lv3_door_handler_left
+    400818: smithy_Lv3_door_handler_right
+    400820: smithy_Lv3_door_left
+    400822: smithy_Lv3_door_right
+    400824: smithy_oven
+    400826: smithy_oven_big
+    400828: smithy_oven_mid
+    400830: spear
+    400832: stair_corner_conc_shade1
+    400834: stair_corner_conc_shade_2
+    400836: stair_corner_conc_shade_3
+    400838: stair_corner_conc_shade_4
+    400840: stair_corner_conc_shade_5
+    400842: stair_corner_conv_shade1
+    400844: stair_corner_conv_shade_2
+    400846: stair_corner_conv_shade_3
+    400848: stair_corner_conv_shade_4
+    400850: stair_corner_conv_shade_5
+    400852: stairs_half_1_shade_1
+    400854: stairs_half_1_shade_2
+    400856: stairs_half_1_shade_3
+    400858: stairs_half_1_shade_4
+    400860: stairs_half_1_shade_5
+    400862: stairs_half_2_shade_1
+    400864: stairs_half_2_shade_2
+    400866: stairs_half_2_shade_3
+    400868: stairs_half_2_shade_4
+    400870: stairs_half_2_shade_5
+    400872: stairs_shade_1
+    400874: stairs_shade_2
+    400876: stairs_shade_3
+    400878: stairs_shade_4
+    400880: stairs_shade_5
+    400882: target
+    400884: throne
+    400886: throne_Lv1
+    400888: throne_Lv1_flag
+    400890: throne_Lv2
+    400892: throne_Lv2_flag_center
+    400894: throne_Lv2_flag_left
+    400896: throne_Lv2_flag_right
+    400898: throne_Lv3
+    400900: throne_Lv3_flag_center
+    400902: throne_Lv3_flag_left
+    400904: throne_Lv3_flag_right
+    400906: tower_big
+    400908: tower_human_small_1
+    400910: tower_human_small_2
+    400912: tower_Lv1
+    400914: tower_Lv1_door
+    400916: tower_Lv1_door_handler
+    400918: tower_Lv2
+    400920: tower_Lv2_door
+    400922: tower_Lv2_door_handler
+    400924: tower_Lv3
+    400926: tower_Lv3_door
+    400928: tower_Lv3_door_handler
+    400930: trap_door
+    400932: trap_door_flap
+    400934: wall_beam_large
+    400936: wall_beam_small
+    400938: window
+    400940: wood_building
+    400942: wood_pile_big
+    400944: wood_pile_small
+    400946: woodcutter_building
+    400948: woodcutter_Lv1
+    400950: woodcutter_Lv1_door
+    400952: woodcutter_Lv1_door_handler
+    400954: woodcutter_Lv2
+    400956: woodcutter_Lv2_door
+    400958: woodcutter_Lv2_door_handler
+    400960: woodcutter_Lv2_saw
+    400962: woodcutter_Lv2_saw_blade
+    400964: woodcutter_Lv3
+    400966: woodcutter_Lv3_door
+    400968: woodcutter_Lv3_door_handler
+    400970: woodcutter_Lv3_saw
+    400972: woodcutter_Lv3_saw_blade_left
+    400974: woodcutter_Lv3_saw_blade_right
+    400976: wooden_roof
+    2100000: proto_human_rts
+    2300000: ' smithy_door_handler_left'
+    2300002: ' smithy_door_handler_right'
+    2300004: anvil
+    2300006: anvil_big
+    2300008: axe
+    2300010: back_door
+    2300012: back_door_handler
+    2300014: banner
+    2300016: barrack_Lv1
+    2300018: barrack_Lv1_door
+    2300020: barrack_Lv1_door_handler
+    2300022: barrack_Lv2
+    2300024: barrack_Lv2_door
+    2300026: barrack_Lv2_door_handler
+    2300028: barrack_Lv3
+    2300030: barrack_Lv3_door
+    2300032: barrack_Lv3_door_handler
+    2300034: barrel
+    2300036: big_door_handler_left
+    2300038: big_door_handler_right
+    2300040: big_door_left
+    2300042: big_door_right
+    2300044: box_large_1
+    2300046: box_large_2
+    2300048: box_small_1
+    2300050: box_small_2
+    2300052: bucket
+    2300054: campfire
+    2300056: cellar
+    2300058: chimney
+    2300060: chimney_big
+    2300062: chimney_small
+    2300064: cog_big
+    2300066: cog_small
+    2300068: Cube
+    2300070: door_small_right
+    2300072: door_small_round
+    2300074: doorway_small_round
+    2300076: factory_building_Lv1
+    2300078: factory_Lv1
+    2300080: factory_Lv1_back_door
+    2300082: factory_Lv1_back_door_handler
+    2300084: factory_Lv1_big_door_handler_left
+    2300086: factory_Lv1_big_door_handler_right
+    2300088: factory_Lv1_big_door_left
+    2300090: factory_Lv1_big_door_right
+    2300092: factory_Lv1_chimney
+    2300094: factory_Lv1_gear
+    2300096: factory_Lv2
+    2300098: factory_Lv2_back_door
+    2300100: factory_Lv2_back_door_handler
+    2300102: factory_Lv2_big_door_handler_left
+    2300104: factory_Lv2_big_door_handler_right
+    2300106: factory_Lv2_big_door_left
+    2300108: factory_Lv2_big_door_right
+    2300110: factory_Lv2_chimney
+    2300112: factory_Lv2_gear
+    2300114: factory_Lv2_gear_big
+    2300116: factory_Lv2_gear_small
+    2300118: factory_Lv2_oven
+    2300120: factory_Lv2_oven_chimney_big
+    2300122: factory_Lv2_oven_chimney_small
+    2300124: factory_Lv3
+    2300126: factory_Lv3_back_door
+    2300128: factory_Lv3_back_door_handler
+    2300130: factory_Lv3_big_door_handler_left
+    2300132: factory_Lv3_big_door_handler_right
+    2300134: factory_Lv3_big_door_left
+    2300136: factory_Lv3_big_door_right
+    2300138: factory_Lv3_chimney
+    2300140: factory_Lv3_chimney_solo
+    2300142: factory_Lv3_gear
+    2300144: factory_Lv3_gear_big
+    2300146: factory_Lv3_gear_big_back
+    2300148: factory_Lv3_gear_small
+    2300150: factory_Lv3_gear_small_back
+    2300152: factory_Lv3_oven
+    2300154: factory_Lv3_oven_chimney_big
+    2300156: factory_Lv3_oven_chimney_small
+    2300158: fire_caudron
+    2300160: fire_plane
+    2300162: flag_pole
+    2300164: house_big
+    2300166: house_chimney
+    2300168: house_Lv1
+    2300170: house_Lv1_door
+    2300172: house_Lv1_handler
+    2300174: house_Lv2
+    2300176: house_Lv2_door
+    2300178: house_Lv2_door_handler
+    2300180: house_Lv3
+    2300182: house_Lv3_door
+    2300184: house_Lv3_handler
+    2300186: house_roof
+    2300188: house_roof_small
+    2300190: human_foundation_2x3
+    2300192: human_foundation_4x5
+    2300194: human_house_large
+    2300196: human_house_mid
+    2300198: human_house_small
+    2300200: human_wall_foundation_1
+    2300202: human_wall_foundation_2
+    2300204: lantern_street
+    2300206: lantern_wall_maunted
+    2300208: metal_melter
+    2300210: metal_plane
+    2300212: mine_base
+    2300214: mine_building_roof
+    2300216: mine_building_stone
+    2300218: mine_building_wood
+    2300220: mine_enterance
+    2300222: mine_Lv1
+    2300224: mine_Lv1_minecart
+    2300226: mine_Lv1_minecart_tipping_bucket
+    2300228: mine_Lv2
+    2300230: mine_Lv2_minecart
+    2300232: mine_Lv2_minecart_tipping_bucket
+    2300234: mine_Lv3
+    2300236: mine_Lv3_minecart
+    2300238: mine_Lv3_minecart_tipping_bucket
+    2300240: mine_rail
+    2300242: mine_rail_piece
+    2300244: mine_stone_01
+    2300246: mine_stone_02
+    2300248: mine_stone_03
+    2300250: mine_stone_04
+    2300252: mine_stone_05
+    2300254: minecart
+    2300256: minecart_base_anim
+    2300258: minecart_bucket_anim
+    2300260: oracle_Lv1
+    2300262: oracle_Lv2
+    2300264: oracle_Lv3
+    2300266: oven.001
+    2300268: oven_door
+    2300270: oven_door_small
+    2300272: palisade_pole
+    2300274: pillar_1
+    2300276: pillar_2
+    2300278: practice_dummy
+    2300280: saw
+    2300282: saw_blade
+    2300284: scaffolding_1x1_wall_mounted
+    2300286: scaffolding_1x2_wall_mounted
+    2300288: shield
+    2300290: smirthy_door_left
+    2300292: smithy_building
+    2300294: smithy_door_right
+    2300296: smithy_Lv1
+    2300298: smithy_Lv1_door_handler_left
+    2300300: smithy_Lv1_door_handler_right
+    2300302: smithy_Lv1_door_left
+    2300304: smithy_Lv1_door_right
+    2300306: smithy_Lv2
+    2300308: smithy_Lv2_door_handler_left
+    2300310: smithy_Lv2_door_handler_right
+    2300312: smithy_Lv2_door_left
+    2300314: smithy_Lv2_door_right
+    2300316: smithy_Lv3
+    2300318: smithy_Lv3_door_handler_left
+    2300320: smithy_Lv3_door_handler_right
+    2300322: smithy_Lv3_door_left
+    2300324: smithy_Lv3_door_right
+    2300326: smithy_oven
+    2300328: smithy_oven_big
+    2300330: smithy_oven_mid
+    2300332: spear
+    2300334: stair_corner_conc_shade1
+    2300336: stair_corner_conc_shade_2
+    2300338: stair_corner_conc_shade_3
+    2300340: stair_corner_conc_shade_4
+    2300342: stair_corner_conc_shade_5
+    2300344: stair_corner_conv_shade1
+    2300346: stair_corner_conv_shade_2
+    2300348: stair_corner_conv_shade_3
+    2300350: stair_corner_conv_shade_4
+    2300352: stair_corner_conv_shade_5
+    2300354: stairs_half_1_shade_1
+    2300356: stairs_half_1_shade_2
+    2300358: stairs_half_1_shade_3
+    2300360: stairs_half_1_shade_4
+    2300362: stairs_half_1_shade_5
+    2300364: stairs_half_2_shade_1
+    2300366: stairs_half_2_shade_2
+    2300368: stairs_half_2_shade_3
+    2300370: stairs_half_2_shade_4
+    2300372: stairs_half_2_shade_5
+    2300374: stairs_shade_1
+    2300376: stairs_shade_2
+    2300378: stairs_shade_3
+    2300380: stairs_shade_4
+    2300382: stairs_shade_5
+    2300384: target
+    2300386: throne
+    2300388: throne_Lv1
+    2300390: throne_Lv2
+    2300392: throne_Lv3
+    2300394: tower_big
+    2300396: tower_human_small_1
+    2300398: tower_human_small_2
+    2300400: tower_Lv1
+    2300402: tower_Lv1_door
+    2300404: tower_Lv1_door_handler
+    2300406: tower_Lv2
+    2300408: tower_Lv2_door
+    2300410: tower_Lv2_door_handler
+    2300412: tower_Lv3
+    2300414: tower_Lv3_door
+    2300416: tower_Lv3_door_handler
+    2300418: trap_door
+    2300420: trap_door_flap
+    2300422: wall_beam_large
+    2300424: wall_beam_small
+    2300426: window
+    2300428: wood_building
+    2300430: wood_pile_big
+    2300432: wood_pile_small
+    2300434: woodcutter_building
+    2300436: woodcutter_Lv1
+    2300438: woodcutter_Lv1_door
+    2300440: woodcutter_Lv1_door_handler
+    2300442: woodcutter_Lv2
+    2300444: woodcutter_Lv2_door
+    2300446: woodcutter_Lv2_door_handler
+    2300448: woodcutter_Lv2_saw
+    2300450: woodcutter_Lv2_saw_blade
+    2300452: woodcutter_Lv3
+    2300454: woodcutter_Lv3_door
+    2300456: woodcutter_Lv3_door_handler
+    2300458: woodcutter_Lv3_saw
+    2300460: woodcutter_Lv3_saw_blade_left
+    2300462: woodcutter_Lv3_saw_blade_right
+    2300464: wooden_roof
+    3300000: ' smithy_door_handler_left'
+    3300002: ' smithy_door_handler_right'
+    3300004: anvil
+    3300006: anvil_big
+    3300008: axe
+    3300010: back_door
+    3300012: back_door_handler
+    3300014: banner
+    3300016: barrack_Lv1
+    3300018: barrack_Lv1_door
+    3300020: barrack_Lv1_door_handler
+    3300022: barrack_Lv2
+    3300024: barrack_Lv2_door
+    3300026: barrack_Lv2_door_handler
+    3300028: barrack_Lv3
+    3300030: barrack_Lv3_door
+    3300032: barrack_Lv3_door_handler
+    3300034: barrel
+    3300036: big_door_handler_left
+    3300038: big_door_handler_right
+    3300040: big_door_left
+    3300042: big_door_right
+    3300044: box_large_1
+    3300046: box_large_2
+    3300048: box_small_1
+    3300050: box_small_2
+    3300052: bucket
+    3300054: campfire
+    3300056: cellar
+    3300058: chimney
+    3300060: chimney_big
+    3300062: chimney_small
+    3300064: cog_big
+    3300066: cog_small
+    3300068: Cube
+    3300070: door_small_right
+    3300072: door_small_round
+    3300074: doorway_small_round
+    3300076: factory_building_Lv1
+    3300078: factory_Lv1
+    3300080: factory_Lv1_back_door
+    3300082: factory_Lv1_back_door_handler
+    3300084: factory_Lv1_big_door_handler_left
+    3300086: factory_Lv1_big_door_handler_right
+    3300088: factory_Lv1_big_door_left
+    3300090: factory_Lv1_big_door_right
+    3300092: factory_Lv1_chimney
+    3300094: factory_Lv1_gear
+    3300096: factory_Lv2
+    3300098: factory_Lv2_back_door
+    3300100: factory_Lv2_back_door_handler
+    3300102: factory_Lv2_big_door_handler_left
+    3300104: factory_Lv2_big_door_handler_right
+    3300106: factory_Lv2_big_door_left
+    3300108: factory_Lv2_big_door_right
+    3300110: factory_Lv2_chimney
+    3300112: factory_Lv2_gear
+    3300114: factory_Lv2_gear_big
+    3300116: factory_Lv2_gear_small
+    3300118: factory_Lv2_oven
+    3300120: factory_Lv2_oven_chimney_big
+    3300122: factory_Lv2_oven_chimney_small
+    3300124: factory_Lv3
+    3300126: factory_Lv3_back_door
+    3300128: factory_Lv3_back_door_handler
+    3300130: factory_Lv3_big_door_handler_left
+    3300132: factory_Lv3_big_door_handler_right
+    3300134: factory_Lv3_big_door_left
+    3300136: factory_Lv3_big_door_right
+    3300138: factory_Lv3_chimney
+    3300140: factory_Lv3_chimney_solo
+    3300142: factory_Lv3_gear
+    3300144: factory_Lv3_gear_big
+    3300146: factory_Lv3_gear_big_back
+    3300148: factory_Lv3_gear_small
+    3300150: factory_Lv3_gear_small_back
+    3300152: factory_Lv3_oven
+    3300154: factory_Lv3_oven_chimney_big
+    3300156: factory_Lv3_oven_chimney_small
+    3300158: fire_caudron
+    3300160: fire_plane
+    3300162: flag_pole
+    3300164: house_big
+    3300166: house_chimney
+    3300168: house_Lv1
+    3300170: house_Lv1_door
+    3300172: house_Lv1_handler
+    3300174: house_Lv2
+    3300176: house_Lv2_door
+    3300178: house_Lv2_door_handler
+    3300180: house_Lv3
+    3300182: house_Lv3_door
+    3300184: house_Lv3_handler
+    3300186: house_roof
+    3300188: house_roof_small
+    3300190: human_foundation_2x3
+    3300192: human_foundation_4x5
+    3300194: human_house_large
+    3300196: human_house_mid
+    3300198: human_house_small
+    3300200: human_wall_foundation_1
+    3300202: human_wall_foundation_2
+    3300204: lantern_street
+    3300206: lantern_wall_maunted
+    3300208: metal_melter
+    3300210: metal_plane
+    3300212: mine_base
+    3300214: mine_building_roof
+    3300216: mine_building_stone
+    3300218: mine_building_wood
+    3300220: mine_enterance
+    3300222: mine_Lv1
+    3300224: mine_Lv1_minecart
+    3300226: mine_Lv1_minecart_tipping_bucket
+    3300228: mine_Lv2
+    3300230: mine_Lv2_minecart
+    3300232: mine_Lv2_minecart_tipping_bucket
+    3300234: mine_Lv3
+    3300236: mine_Lv3_minecart
+    3300238: mine_Lv3_minecart_tipping_bucket
+    3300240: mine_rail
+    3300242: mine_rail_piece
+    3300244: mine_stone_01
+    3300246: mine_stone_02
+    3300248: mine_stone_03
+    3300250: mine_stone_04
+    3300252: mine_stone_05
+    3300254: minecart
+    3300256: minecart_base_anim
+    3300258: minecart_bucket_anim
+    3300260: oracle_Lv1
+    3300262: oracle_Lv2
+    3300264: oracle_Lv3
+    3300266: oven.001
+    3300268: oven_door
+    3300270: oven_door_small
+    3300272: palisade_pole
+    3300274: pillar_1
+    3300276: pillar_2
+    3300278: practice_dummy
+    3300280: saw
+    3300282: saw_blade
+    3300284: scaffolding_1x1_wall_mounted
+    3300286: scaffolding_1x2_wall_mounted
+    3300288: shield
+    3300290: smirthy_door_left
+    3300292: smithy_building
+    3300294: smithy_door_right
+    3300296: smithy_Lv1
+    3300298: smithy_Lv1_door_handler_left
+    3300300: smithy_Lv1_door_handler_right
+    3300302: smithy_Lv1_door_left
+    3300304: smithy_Lv1_door_right
+    3300306: smithy_Lv2
+    3300308: smithy_Lv2_door_handler_left
+    3300310: smithy_Lv2_door_handler_right
+    3300312: smithy_Lv2_door_left
+    3300314: smithy_Lv2_door_right
+    3300316: smithy_Lv3
+    3300318: smithy_Lv3_door_handler_left
+    3300320: smithy_Lv3_door_handler_right
+    3300322: smithy_Lv3_door_left
+    3300324: smithy_Lv3_door_right
+    3300326: smithy_oven
+    3300328: smithy_oven_big
+    3300330: smithy_oven_mid
+    3300332: spear
+    3300334: stair_corner_conc_shade1
+    3300336: stair_corner_conc_shade_2
+    3300338: stair_corner_conc_shade_3
+    3300340: stair_corner_conc_shade_4
+    3300342: stair_corner_conc_shade_5
+    3300344: stair_corner_conv_shade1
+    3300346: stair_corner_conv_shade_2
+    3300348: stair_corner_conv_shade_3
+    3300350: stair_corner_conv_shade_4
+    3300352: stair_corner_conv_shade_5
+    3300354: stairs_half_1_shade_1
+    3300356: stairs_half_1_shade_2
+    3300358: stairs_half_1_shade_3
+    3300360: stairs_half_1_shade_4
+    3300362: stairs_half_1_shade_5
+    3300364: stairs_half_2_shade_1
+    3300366: stairs_half_2_shade_2
+    3300368: stairs_half_2_shade_3
+    3300370: stairs_half_2_shade_4
+    3300372: stairs_half_2_shade_5
+    3300374: stairs_shade_1
+    3300376: stairs_shade_2
+    3300378: stairs_shade_3
+    3300380: stairs_shade_4
+    3300382: stairs_shade_5
+    3300384: target
+    3300386: throne
+    3300388: throne_Lv1
+    3300390: throne_Lv2
+    3300392: throne_Lv3
+    3300394: tower_big
+    3300396: tower_human_small_1
+    3300398: tower_human_small_2
+    3300400: tower_Lv1
+    3300402: tower_Lv1_door
+    3300404: tower_Lv1_door_handler
+    3300406: tower_Lv2
+    3300408: tower_Lv2_door
+    3300410: tower_Lv2_door_handler
+    3300412: tower_Lv3
+    3300414: tower_Lv3_door
+    3300416: tower_Lv3_door_handler
+    3300418: trap_door
+    3300420: trap_door_flap
+    3300422: wall_beam_large
+    3300424: wall_beam_small
+    3300426: window
+    3300428: wood_building
+    3300430: wood_pile_big
+    3300432: wood_pile_small
+    3300434: woodcutter_building
+    3300436: woodcutter_Lv1
+    3300438: woodcutter_Lv1_door
+    3300440: woodcutter_Lv1_door_handler
+    3300442: woodcutter_Lv2
+    3300444: woodcutter_Lv2_door
+    3300446: woodcutter_Lv2_door_handler
+    3300448: woodcutter_Lv2_saw
+    3300450: woodcutter_Lv2_saw_blade
+    3300452: woodcutter_Lv3
+    3300454: woodcutter_Lv3_door
+    3300456: woodcutter_Lv3_door_handler
+    3300458: woodcutter_Lv3_saw
+    3300460: woodcutter_Lv3_saw_blade_left
+    3300462: woodcutter_Lv3_saw_blade_right
+    3300464: wooden_roof
+    4300000: barrack_Lv1
+    4300002: barrack_Lv1_door
+    4300004: barrack_Lv1_door_handler
+    4300006: house_Lv1
+    4300008: house_Lv1_door
+    4300010: house_Lv1_handler
+    4300012: house_Lv2
+    4300014: house_Lv2_door
+    4300016: house_Lv2_door_handler
+    4300018: house_Lv3
+    4300020: house_Lv3_door
+    4300022: house_Lv3_handler
+    4300024: smithy_Lv1
+    4300026: smithy_Lv1_door_right
+    4300028: smithy_Lv1_door_handler_right
+    4300030: smithy_Lv1_door_left
+    4300032: smithy_Lv1_door_handler_left
+    4300034: smithy_Lv1_bellow
+    4300036: smithy_Lv2
+    4300038: smithy_Lv2_bellow
+    4300040: smithy_Lv2_door_right
+    4300042: smithy_Lv2_door_handler_right
+    4300044: smithy_Lv2_door_left
+    4300046: smithy_Lv2_door_handler_left
+    4300048: smithy_Lv3
+    4300050: smithy_Lv3_bellow
+    4300052: smithy_Lv3_door_right
+    4300054: smithy_Lv3_door_handler_right
+    4300056: smithy_Lv3_door_left
+    4300058: smithy_Lv3_door_handler_left
+    4300060: throne_Lv1
+    4300062: throne_Lv1_flag
+    4300064: throne_Lv2
+    4300066: throne_Lv2_flag_center
+    4300068: throne_Lv2_flag_right
+    4300070: throne_Lv2_flag_left
+    4300072: throne_Lv3
+    4300074: throne_Lv3_flag_center
+    4300076: throne_Lv3_flag_right
+    4300078: throne_Lv3_flag_left
+    4300080: cauldron_Lv2
+    4300082: cauldron_Lv3
+    4300084: tower_Lv3
+    4300086: tower_Lv3_door
+    4300088: tower_Lv3_door_handler
+    4300090: woodcutter_Lv1
+    4300092: woodcutter_Lv1_door
+    4300094: woodcutter_Lv1_door_handler
+    4300096: woodcutter_Lv2
+    4300098: woodcutter_Lv2_saw
+    4300100: woodcutter_Lv2_saw_blade
+    4300102: woodcutter_Lv2_door
+    4300104: woodcutter_Lv2_door_handler
+    4300106: woodcutter_Lv3
+    4300108: woodcutter_Lv3_saw
+    4300110: woodcutter_Lv3_saw_blade_right
+    4300112: woodcutter_Lv3_saw_blade_left
+    4300114: woodcutter_Lv3_door
+    4300116: woodcutter_Lv3_door_handler
+    4300118: barrel
+    4300120: box_large_1
+    4300122: box_large_2
+    4300124: box_small_1
+    4300126: box_small_2
+    4300128: door_small_right
+    4300130: door_small_round
+    4300132: doorway_small_round
+    4300134: human_foundation_2x3
+    4300136: human_foundation_4x5
+    4300138: human_house_large
+    4300140: human_house_mid
+    4300142: human_house_small
+    4300144: human_wall_foundation_1
+    4300146: human_wall_foundation_2
+    4300148: lantern_street
+    4300150: lantern_wall_maunted
+    4300152: palisade_pole
+    4300154: pillar_1
+    4300156: pillar_2
+    4300158: practice_dummy
+    4300160: scaffolding_1x1_wall_mounted
+    4300162: scaffolding_1x2_wall_mounted
+    4300164: shield
+    4300166: spear
+    4300168: stair_corner_conc_shade1
+    4300170: stair_corner_conc_shade_2
+    4300172: stair_corner_conc_shade_3
+    4300174: stair_corner_conc_shade_4
+    4300176: stair_corner_conc_shade_5
+    4300178: stair_corner_conv_shade1
+    4300180: stair_corner_conv_shade_2
+    4300182: stair_corner_conv_shade_3
+    4300184: stair_corner_conv_shade_4
+    4300186: stair_corner_conv_shade_5
+    4300188: stairs_half_1_shade_1
+    4300190: stairs_half_1_shade_2
+    4300192: stairs_half_1_shade_3
+    4300194: stairs_half_1_shade_4
+    4300196: stairs_half_1_shade_5
+    4300198: stairs_half_2_shade_1
+    4300200: stairs_half_2_shade_2
+    4300202: stairs_half_2_shade_3
+    4300204: stairs_half_2_shade_4
+    4300206: stairs_half_2_shade_5
+    4300208: stairs_shade_1
+    4300210: stairs_shade_2
+    4300212: stairs_shade_3
+    4300214: stairs_shade_4
+    4300216: stairs_shade_5
+    4300218: target
+    4300220: tower_big
+    4300222: tower_human_small_1
+    4300224: tower_human_small_2
+    4300226: trap_door
+    4300228: trap_door_flap
+    4300230: wall_beam_large
+    4300232: wall_beam_small
+    4300234: campfire
+    4300236: cauldron
+    4300238: cauldron_face
+    4300240: back_door
+    4300242: back_door_handler
+    4300244: big_door_left
+    4300246: big_door_handler_left
+    4300248: big_door_right
+    4300250: big_door_handler_right
+    4300252: cog_big
+    4300254: cog_small
+    4300256: factory_building_Lv1
+    4300258: flag_pole
+    4300260: smirthy_door_left
+    4300262: ' smithy_door_handler_left'
+    4300264: smithy_door_right
+    4300266: ' smithy_door_handler_right'
+    4300268: anvil
+    4300270: anvil_big
+    4300272: bellow
+    4300274: bucket
+    4300276: metal_melter
+    4300278: metal_plane
+    4300280: oven_door
+    4300282: oven_door_small
+    4300284: smithy_building
+    4300286: smithy_oven
+    4300288: smithy_oven_big
+    4300290: smithy_oven_mid
+    4300292: fire_caudron
+    4300294: fire_plane
+    4300296: throne
+    4300298: axe
+    4300300: saw
+    4300302: saw_blade
+    4300304: wood_pile_big
+    4300306: wood_pile_small
+    4300308: woodcutter_building
+    4300310: wooden_roof
+    4300312: mine_base
+    4300314: mine_building_roof
+    4300316: mine_building_stone
+    4300318: mine_enterance
+    4300320: mine_rail_piece
+    4300322: mine_stone_01
+    4300324: mine_stone_02
+    4300326: mine_stone_03
+    4300328: mine_stone_04
+    4300330: mine_stone_05
+    4300332: minecart
+    4300334: minecart_bucket_anim
+    4300336: Cube
+    4300338: mine_Lv1
+    4300340: mine_Lv1_minecart
+    4300342: mine_Lv1_minecart_tipping_bucket
+    4300344: mine_rail
+    4300346: minecart_base_anim
+    4300348: mine_Lv2
+    4300350: mine_Lv2_minecart
+    4300352: mine_Lv2_minecart_tipping_bucket
+    4300354: mine_Lv3
+    4300356: mine_Lv3_minecart
+    4300358: mine_Lv3_minecart_tipping_bucket
+    4300360: factory_Lv1
+    4300362: factory_Lv1_back_door
+    4300364: factory_Lv1_back_door_handler
+    4300366: factory_Lv1_big_door_left
+    4300368: factory_Lv1_big_door_handler_left
+    4300370: factory_Lv1_big_door_right
+    4300372: factory_Lv1_big_door_handler_right
+    4300374: factory_Lv1_chimney
+    4300376: factory_Lv1_gear
+    4300378: factory_Lv2
+    4300380: factory_Lv2_back_door
+    4300382: factory_Lv2_back_door_handler
+    4300384: factory_Lv2_big_door_left
+    4300386: factory_Lv2_big_door_handler_left
+    4300388: factory_Lv2_big_door_right
+    4300390: factory_Lv2_big_door_handler_right
+    4300392: factory_Lv2_chimney
+    4300394: factory_Lv2_gear
+    4300396: factory_Lv2_gear_big
+    4300398: factory_Lv2_gear_small
+    4300400: factory_Lv2_oven
+    4300402: factory_Lv2_oven_chimney_big
+    4300404: factory_Lv2_oven_chimney_small
+    4300406: factory_Lv3
+    4300408: factory_Lv3_back_door
+    4300410: factory_Lv3_back_door_handler
+    4300412: factory_Lv3_big_door_left
+    4300414: factory_Lv3_big_door_handler_left
+    4300416: factory_Lv3_big_door_right
+    4300418: factory_Lv3_big_door_handler_right
+    4300420: factory_Lv3_chimney
+    4300422: factory_Lv3_chimney_solo
+    4300424: factory_Lv3_gear
+    4300426: factory_Lv3_gear_big
+    4300428: factory_Lv3_gear_big_back
+    4300430: factory_Lv3_gear_small
+    4300432: factory_Lv3_gear_small_back
+    4300434: factory_Lv3_oven
+    4300436: factory_Lv3_oven_chimney_big
+    4300438: factory_Lv3_oven_chimney_small
+    4300440: animated_flag
+    4300442: hanging_lamp
+    4300444: oracle_cauldron
+    4300446: cellar
+    4300448: house_big
+    4300450: house_chimney
+    4300452: house_roof
+    4300454: house_roof_small
+    4300456: window
+    4300458: wood_building
+    4300460: banner
+    4300462: banner_flag
+    4300464: oven.001
+    4300466: chimney_big
+    4300468: chimney_small
+    4300470: oracle_Lv1
+    4300472: oracle_Lv1_cauldron
+    4300474: oracle_Lv1_flag_back
+    4300476: oracle_Lv1_flag_front
+    4300478: oracle_Lv1_lamp_center_left
+    4300480: oracle_Lv1_lamp_center_right
+    4300482: oracle_Lv1_lamp_side_left
+    4300484: oracle_Lv1_lamp_side_right
+    4300486: oracle_Lv2
+    4300488: oracle_Lv2_cauldron
+    4300490: oracle_Lv2_flag_back
+    4300492: oracle_Lv2_flag_front
+    4300494: oracle_Lv2_lamp_center_left
+    4300496: oracle_Lv2_lamp_center_right
+    4300498: oracle_Lv2_lamp_side_left
+    4300500: oracle_Lv2_lamp_side_right
+    4300502: oracle_Lv3
+    4300504: oracle_Lv3_cauldron
+    4300506: oracle_Lv3_flag_back
+    4300508: oracle_Lv3_flag_front
+    4300510: oracle_Lv3_lamp_center_left
+    4300512: oracle_Lv3_lamp_center_left.001
+    4300514: oracle_Lv3_lamp_center_right
+    4300516: oracle_Lv3_lamp_front_left
+    4300518: oracle_Lv3_lamp_side_left
+    4300520: oracle_Lv3_lamp_side_left_2
+    4300522: oracle_Lv3_lamp_side_right
+    4300524: oracle_Lv3_lamp_side_right_2
+    4300526: chimney
+    4300528: tower_Lv1
+    4300530: tower_Lv1_door
+    4300532: tower_Lv1_door_handler
+    4300534: tower_Lv2
+    4300536: tower_Lv2_door
+    4300538: tower_Lv2_door_handler
+    4300540: cauldron_Lv1
+    4300542: mine_building_wood
+    4300544: barrack_Lv2
+    4300546: barrack_Lv2_door
+    4300548: barrack_Lv2_door_handler
+    4300550: barrack_Lv3
+    4300552: barrack_Lv3_door
+    4300554: barrack_Lv3_door_handler
+    7400000: Scene
+    9500000: //RootNode
+    13700000: animated_flag
+    13700002: banner_flag
+    13700004: bellow
+    13700006: cauldron
+    13700008: cauldron_face
+    13700010: cauldron_Lv1
+    13700012: cauldron_Lv2
+    13700014: cauldron_Lv3
+    13700016: hanging_lamp
+    13700018: oracle_cauldron
+    13700020: oracle_Lv1_cauldron
+    13700022: oracle_Lv1_flag_back
+    13700024: oracle_Lv1_flag_front
+    13700026: oracle_Lv1_lamp_center_left
+    13700028: oracle_Lv1_lamp_center_right
+    13700030: oracle_Lv1_lamp_side_left
+    13700032: oracle_Lv1_lamp_side_right
+    13700034: oracle_Lv2_cauldron
+    13700036: oracle_Lv2_flag_back
+    13700038: oracle_Lv2_flag_front
+    13700040: oracle_Lv2_lamp_center_left
+    13700042: oracle_Lv2_lamp_center_right
+    13700044: oracle_Lv2_lamp_side_left
+    13700046: oracle_Lv2_lamp_side_right
+    13700048: oracle_Lv3_cauldron
+    13700050: oracle_Lv3_flag_back
+    13700052: oracle_Lv3_flag_front
+    13700054: oracle_Lv3_lamp_center_left
+    13700056: oracle_Lv3_lamp_center_left.001
+    13700058: oracle_Lv3_lamp_center_right
+    13700060: oracle_Lv3_lamp_front_left
+    13700062: oracle_Lv3_lamp_side_left
+    13700064: oracle_Lv3_lamp_side_left_2
+    13700066: oracle_Lv3_lamp_side_right
+    13700068: oracle_Lv3_lamp_side_right_2
+    13700070: smithy_Lv1_bellow
+    13700072: smithy_Lv2_bellow
+    13700074: smithy_Lv3_bellow
+    13700076: throne_Lv1_flag
+    13700078: throne_Lv2_flag_center
+    13700080: throne_Lv2_flag_left
+    13700082: throne_Lv2_flag_right
+    13700084: throne_Lv3_flag_center
+    13700086: throne_Lv3_flag_left
+    13700088: throne_Lv3_flag_right
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: proto_human_rts
+    second: {fileID: 2100000, guid: 7bd7911789f815d44ad2df74720fd943, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

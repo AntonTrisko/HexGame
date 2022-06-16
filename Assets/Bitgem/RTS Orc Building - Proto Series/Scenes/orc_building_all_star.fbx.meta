@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: 614d8cf41832f804988964858a354383
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature_orc_cauldron
+    100002: Armature_orc_cauldron_Lv1
+    100004: Armature_orc_cauldron_Lv2
+    100006: Armature_orc_cauldron_Lv3
+    100008: Armeture_orc_smithy
+    100010: Armeture_orc_smithy_Lv1
+    100012: Armeture_orc_smithy_Lv2
+    100014: Armeture_orc_smithy_Lv3
+    100016: Armiture_orc_altar_lantern_2
+    100018: Armiture_orc_altar_lantern_2.001
+    100020: Armiture_orc_altar_lantern_3
+    100022: Armiture_orc_altar_Lv1_lantern
+    100024: Armiture_orc_altar_Lv2_lantern
+    100026: Armiture_orc_altar_Lv3_lantern
+    100028: Armiture_orc_banner_flag
+    100030: Armiture_orc_banner_flag_2
+    100032: Armiture_orc_tower_Lv1_flag_back
+    100034: Armiture_orc_tower_Lv1_flag_left
+    100036: Armiture_orc_tower_Lv1_flag_right
+    100038: Armiture_orc_tower_Lv2_flag_back
+    100040: Armiture_orc_tower_Lv2_flag_left
+    100042: Armiture_orc_tower_Lv2_flag_right
+    100044: Armiture_orc_tower_Lv3_flag_back
+    100046: Armiture_orc_tower_Lv3_flag_left
+    100048: Armiture_orc_tower_Lv3_flag_right
+    100050: Armiture_orc_trone_Lv1_flag
+    100052: Armiture_orc_trone_Lv2_flag.
+    100054: Armiture_orc_trone_Lv3_flag.
+    100056: base
+    100058: base 1
+    100060: base 2
+    100062: base 3
+    100064: base 4
+    100066: base 5
+    100068: Bone_01
+    100070: Bone_01 1
+    100072: Bone_01 10
+    100074: Bone_01 11
+    100076: Bone_01 12
+    100078: Bone_01 13
+    100080: Bone_01 2
+    100082: Bone_01 3
+    100084: Bone_01 4
+    100086: Bone_01 5
+    100088: Bone_01 6
+    100090: Bone_01 7
+    100092: Bone_01 8
+    100094: Bone_01 9
+    100096: Bone_02
+    100098: Bone_02 1
+    100100: Bone_02 10
+    100102: Bone_02 11
+    100104: Bone_02 12
+    100106: Bone_02 13
+    100108: Bone_02 2
+    100110: Bone_02 3
+    100112: Bone_02 4
+    100114: Bone_02 5
+    100116: Bone_02 6
+    100118: Bone_02 7
+    100120: Bone_02 8
+    100122: Bone_02 9
+    100124: Bone_bellow_upper_part
+    100126: Bone_bellow_upper_part 1
+    100128: Bone_bellow_upper_part 2
+    100130: Bone_bellow_upper_part 3
+    100132: Bone_bubble_big
+    100134: Bone_bubble_big 1
+    100136: Bone_bubble_big 2
+    100138: Bone_bubble_big 3
+    100140: Bone_bubble_mid
+    100142: Bone_bubble_mid 1
+    100144: Bone_bubble_mid 2
+    100146: Bone_bubble_mid 3
+    100148: Bone_bubble_small
+    100150: Bone_bubble_small 1
+    100152: Bone_bubble_small 2
+    100154: Bone_bubble_small 3
+    100156: Bone_cauldron
+    100158: Bone_cauldron 1
+    100160: Bone_cauldron 2
+    100162: Bone_cauldron 3
+    100164: Bone_root
+    100166: bone_root
+    100168: Bone_root 1
+    100170: bone_root 1
+    100172: Bone_root 10
+    100174: Bone_root 11
+    100176: Bone_root 12
+    100178: Bone_root 13
+    100180: Bone_root 14
+    100182: Bone_root 15
+    100184: Bone_root 16
+    100186: Bone_root 17
+    100188: Bone_root 2
+    100190: bone_root 2
+    100192: Bone_root 3
+    100194: bone_root 3
+    100196: Bone_root 4
+    100198: Bone_root 5
+    100200: Bone_root 6
+    100202: Bone_root 7
+    100204: Bone_root 8
+    100206: Bone_root 9
+    100208: cog_big
+    100210: cog_small_01
+    100212: head
+    100214: head 1
+    100216: head 2
+    100218: head 3
+    100220: head 4
+    100222: head 5
+    100224: mine_Lv3
+    100226: mine_rail
+    100228: minecart_base_anim
+    100230: orc_altar
+    100232: orc_altar_lantern_1
+    100234: orc_altar_lantern_2
+    100236: orc_altar_lantern_3
+    100238: orc_altar_Lv1
+    100240: orc_altar_Lv1_lantern
+    100242: orc_altar_Lv2
+    100244: orc_altar_Lv2_lantern
+    100246: orc_altar_Lv3
+    100248: orc_altar_Lv3_lantern
+    100250: orc_anvil
+    100252: orc_anvil_big
+    100254: orc_axe
+    100256: orc_banner
+    100258: orc_banner_flag
+    100260: orc_banner_flag_2
+    100262: orc_barrack_Lv1
+    100264: orc_barrack_Lv2
+    100266: orc_barrack_Lv3
+    100268: orc_barrel
+    100270: orc_beam
+    100272: orc_beam_pile
+    100274: orc_bowl
+    100276: orc_bowl_full
+    100278: orc_box_large_1
+    100280: orc_box_large_2
+    100282: orc_box_small_1
+    100284: orc_box_small_2
+    100286: orc_bucket
+    100288: //RootNode
+    100290: orc_cabin
+    100292: orc_campfire
+    100294: orc_cauldron
+    100296: orc_cauldron_cauldron_Lv1
+    100298: orc_cauldron_cauldron_Lv2
+    100300: orc_cauldron_cauldron_Lv3
+    100302: orc_cauldron_Lv1
+    100304: orc_cauldron_Lv2
+    100306: orc_cauldron_Lv3
+    100308: orc_chimney
+    100310: orc_door
+    100312: orc_drum_big
+    100314: orc_drum_small
+    100316: orc_factory_door
+    100318: orc_factory_Lv1
+    100320: orc_factory_Lv1_chimney
+    100322: orc_factory_Lv1_cog
+    100324: orc_factory_Lv2
+    100326: orc_factory_Lv2_cog_big
+    100328: orc_factory_Lv2_cog_small
+    100330: orc_factory_Lv2_metal_chimney
+    100332: orc_factory_Lv2_wooden_chimney
+    100334: orc_factory_Lv3
+    100336: orc_factory_Lv3_cog_big
+    100338: orc_factory_Lv3_cog_small_01
+    100340: orc_factory_Lv3_cog_small_02
+    100342: orc_factory_Lv3_metal_chimney
+    100344: orc_factory_Lv3_wooden_chimney
+    100346: orc_flag_red
+    100348: orc_guard_tower_Lv1
+    100350: orc_guard_tower_Lv1_flag_back
+    100352: orc_guard_tower_Lv1_flag_left
+    100354: orc_guard_tower_Lv1_flag_right
+    100356: orc_guard_tower_Lv2
+    100358: orc_guard_tower_Lv2_flag_back
+    100360: orc_guard_tower_Lv2_flag_left
+    100362: orc_guard_tower_Lv2_flag_right
+    100364: orc_guard_tower_Lv3_flag_back
+    100366: orc_guard_tower_Lv3_flag_left
+    100368: orc_guard_tower_Lv3_flag_right
+    100370: orc_head_lantern
+    100372: orc_head_lantern_disabled
+    100374: orc_head_lantern_horned
+    100376: orc_high_stand
+    100378: orc_horned_skull
+    100380: orc_house_roof
+    100382: orc_house_wall
+    100384: orc_house_wooden_roof
+    100386: orc_hut_base
+    100388: orc_hut_Lv1
+    100390: orc_hut_Lv2
+    100392: orc_hut_Lv3
+    100394: orc_ladder
+    100396: orc_log
+    100398: orc_log_wall
+    100400: orc_lumberjack_Lv1
+    100402: orc_lumberjack_Lv2
+    100404: orc_lumberjack_Lv2_sawblade_01
+    100406: orc_lumberjack_Lv2_sawblade_02
+    100408: orc_lumberjack_Lv2_wood_feed_01
+    100410: orc_lumberjack_Lv2_wood_feed_02
+    100412: orc_lumberjack_Lv3
+    100414: orc_lumberjack_Lv3_sawblade_1
+    100416: orc_lumberjack_Lv3_sawblade_2
+    100418: orc_lumberjack_Lv3_sawblade_3
+    100420: orc_lumberjack_Lv3_wood_feed_01
+    100422: orc_lumberjack_Lv3_wood_feed_02
+    100424: orc_metal_petch
+    100426: orc_mine_enterance
+    100428: orc_mine_Lv1
+    100430: orc_mine_Lv1_minecart
+    100432: orc_mine_Lv1_minecart_bucket
+    100434: orc_mine_Lv2
+    100436: orc_mine_Lv2_minecart
+    100438: orc_mine_Lv2_minecart_bucket
+    100440: orc_mine_Lv3_minecart
+    100442: orc_mine_Lv3_minecart_bucket
+    100444: orc_mine_rail_piece
+    100446: orc_mine_stone_01
+    100448: orc_mine_stone_02
+    100450: orc_mine_stone_03
+    100452: orc_mine_stone_04
+    100454: orc_mine_stone_05
+    100456: orc_minecart
+    100458: orc_minecart_bucket_anim
+    100460: orc_oven
+    100462: orc_oven_door_big
+    100464: orc_oven_door_small
+    100466: orc_pointed_beam
+    100468: orc_practice_aim
+    100470: orc_practice_dummy
+    100472: orc_sawblade
+    100474: orc_scafolding
+    100476: orc_shield
+    100478: orc_skull
+    100480: orc_smelting_cauldron
+    100482: orc_smithy_Lv1
+    100484: orc_smithy_Lv1_bellow
+    100486: orc_smithy_Lv2
+    100488: orc_smithy_Lv2_bellow
+    100490: orc_smithy_Lv3
+    100492: orc_smithy_Lv3_bellow
+    100494: orc_stair_corner_conc_shade1
+    100496: orc_stair_corner_conc_shade_2
+    100498: orc_stair_corner_conc_shade_3
+    100500: orc_stair_corner_conc_shade_4
+    100502: orc_stair_corner_conc_shade_5
+    100504: orc_stair_corner_conv_shade1
+    100506: orc_stair_corner_conv_shade_2
+    100508: orc_stair_corner_conv_shade_3
+    100510: orc_stair_corner_conv_shade_4
+    100512: orc_stair_corner_conv_shade_5
+    100514: orc_stairs_half_1_shade_1
+    100516: orc_stairs_half_1_shade_2
+    100518: orc_stairs_half_1_shade_3
+    100520: orc_stairs_half_1_shade_4
+    100522: orc_stairs_half_1_shade_5
+    100524: orc_stairs_half_2_shade_1
+    100526: orc_stairs_half_2_shade_2
+    100528: orc_stairs_half_2_shade_3
+    100530: orc_stairs_half_2_shade_4
+    100532: orc_stairs_half_2_shade_5
+    100534: orc_stairs_shade_1
+    100536: orc_stairs_shade_2
+    100538: orc_stairs_shade_3
+    100540: orc_stairs_shade_4
+    100542: orc_stairs_shade_5
+    100544: orc_stone_big
+    100546: orc_stone_circle_L
+    100548: orc_stone_circle_M
+    100550: orc_stone_circle_S
+    100552: orc_stone_mid
+    100554: orc_stone_pillar_big
+    100556: orc_stone_pillar_big_ringed
+    100558: orc_stone_pillar_small
+    100560: orc_stone_pillar_small_ringed
+    100562: orc_stone_roof_high
+    100564: orc_stone_roof_low
+    100566: orc_stone_small
+    100568: orc_throne
+    100570: orc_throne_Lv1
+    100572: orc_throne_Lv1_flag
+    100574: orc_throne_Lv2
+    100576: orc_throne_Lv2_flag
+    100578: orc_throne_Lv3_flag
+    100580: orc_tower_Lv3
+    100582: orc_trunk_berm_L
+    100584: orc_trunk_berm_M
+    100586: orc_trunk_berm_S
+    100588: orc_trunk_berm_XS
+    100590: orc_tusk
+    100592: orc_tusk_cloth
+    100594: orc_tusk_roof
+    100596: orc_tusk_standing
+    100598: orc_window
+    100600: orc_window_shutter
+    100602: orc_wood_pile_big
+    100604: orc_wood_pile_small
+    100606: orc_wooden_chimney_big
+    100608: orc_wooden_chimney_small
+    100610: orc_wooden_roof
+    100612: orcs_floor_stones
+    100614: orcs_throne_Lv3
+    100616: smithy_bellow
+    400000: Armature_orc_cauldron
+    400002: Armature_orc_cauldron_Lv1
+    400004: Armature_orc_cauldron_Lv2
+    400006: Armature_orc_cauldron_Lv3
+    400008: Armeture_orc_smithy
+    400010: Armeture_orc_smithy_Lv1
+    400012: Armeture_orc_smithy_Lv2
+    400014: Armeture_orc_smithy_Lv3
+    400016: Armiture_orc_altar_lantern_2
+    400018: Armiture_orc_altar_lantern_2.001
+    400020: Armiture_orc_altar_lantern_3
+    400022: Armiture_orc_altar_Lv1_lantern
+    400024: Armiture_orc_altar_Lv2_lantern
+    400026: Armiture_orc_altar_Lv3_lantern
+    400028: Armiture_orc_banner_flag
+    400030: Armiture_orc_banner_flag_2
+    400032: Armiture_orc_tower_Lv1_flag_back
+    400034: Armiture_orc_tower_Lv1_flag_left
+    400036: Armiture_orc_tower_Lv1_flag_right
+    400038: Armiture_orc_tower_Lv2_flag_back
+    400040: Armiture_orc_tower_Lv2_flag_left
+    400042: Armiture_orc_tower_Lv2_flag_right
+    400044: Armiture_orc_tower_Lv3_flag_back
+    400046: Armiture_orc_tower_Lv3_flag_left
+    400048: Armiture_orc_tower_Lv3_flag_right
+    400050: Armiture_orc_trone_Lv1_flag
+    400052: Armiture_orc_trone_Lv2_flag.
+    400054: Armiture_orc_trone_Lv3_flag.
+    400056: base
+    400058: base 1
+    400060: base 2
+    400062: base 3
+    400064: base 4
+    400066: base 5
+    400068: Bone_01
+    400070: Bone_01 1
+    400072: Bone_01 10
+    400074: Bone_01 11
+    400076: Bone_01 12
+    400078: Bone_01 13
+    400080: Bone_01 2
+    400082: Bone_01 3
+    400084: Bone_01 4
+    400086: Bone_01 5
+    400088: Bone_01 6
+    400090: Bone_01 7
+    400092: Bone_01 8
+    400094: Bone_01 9
+    400096: Bone_02
+    400098: Bone_02 1
+    400100: Bone_02 10
+    400102: Bone_02 11
+    400104: Bone_02 12
+    400106: Bone_02 13
+    400108: Bone_02 2
+    400110: Bone_02 3
+    400112: Bone_02 4
+    400114: Bone_02 5
+    400116: Bone_02 6
+    400118: Bone_02 7
+    400120: Bone_02 8
+    400122: Bone_02 9
+    400124: Bone_bellow_upper_part
+    400126: Bone_bellow_upper_part 1
+    400128: Bone_bellow_upper_part 2
+    400130: Bone_bellow_upper_part 3
+    400132: Bone_bubble_big
+    400134: Bone_bubble_big 1
+    400136: Bone_bubble_big 2
+    400138: Bone_bubble_big 3
+    400140: Bone_bubble_mid
+    400142: Bone_bubble_mid 1
+    400144: Bone_bubble_mid 2
+    400146: Bone_bubble_mid 3
+    400148: Bone_bubble_small
+    400150: Bone_bubble_small 1
+    400152: Bone_bubble_small 2
+    400154: Bone_bubble_small 3
+    400156: Bone_cauldron
+    400158: Bone_cauldron 1
+    400160: Bone_cauldron 2
+    400162: Bone_cauldron 3
+    400164: Bone_root
+    400166: bone_root
+    400168: Bone_root 1
+    400170: bone_root 1
+    400172: Bone_root 10
+    400174: Bone_root 11
+    400176: Bone_root 12
+    400178: Bone_root 13
+    400180: Bone_root 14
+    400182: Bone_root 15
+    400184: Bone_root 16
+    400186: Bone_root 17
+    400188: Bone_root 2
+    400190: bone_root 2
+    400192: Bone_root 3
+    400194: bone_root 3
+    400196: Bone_root 4
+    400198: Bone_root 5
+    400200: Bone_root 6
+    400202: Bone_root 7
+    400204: Bone_root 8
+    400206: Bone_root 9
+    400208: cog_big
+    400210: cog_small_01
+    400212: head
+    400214: head 1
+    400216: head 2
+    400218: head 3
+    400220: head 4
+    400222: head 5
+    400224: mine_Lv3
+    400226: mine_rail
+    400228: minecart_base_anim
+    400230: orc_altar
+    400232: orc_altar_lantern_1
+    400234: orc_altar_lantern_2
+    400236: orc_altar_lantern_3
+    400238: orc_altar_Lv1
+    400240: orc_altar_Lv1_lantern
+    400242: orc_altar_Lv2
+    400244: orc_altar_Lv2_lantern
+    400246: orc_altar_Lv3
+    400248: orc_altar_Lv3_lantern
+    400250: orc_anvil
+    400252: orc_anvil_big
+    400254: orc_axe
+    400256: orc_banner
+    400258: orc_banner_flag
+    400260: orc_banner_flag_2
+    400262: orc_barrack_Lv1
+    400264: orc_barrack_Lv2
+    400266: orc_barrack_Lv3
+    400268: orc_barrel
+    400270: orc_beam
+    400272: orc_beam_pile
+    400274: orc_bowl
+    400276: orc_bowl_full
+    400278: orc_box_large_1
+    400280: orc_box_large_2
+    400282: orc_box_small_1
+    400284: orc_box_small_2
+    400286: orc_bucket
+    400288: //RootNode
+    400290: orc_cabin
+    400292: orc_campfire
+    400294: orc_cauldron
+    400296: orc_cauldron_cauldron_Lv1
+    400298: orc_cauldron_cauldron_Lv2
+    400300: orc_cauldron_cauldron_Lv3
+    400302: orc_cauldron_Lv1
+    400304: orc_cauldron_Lv2
+    400306: orc_cauldron_Lv3
+    400308: orc_chimney
+    400310: orc_door
+    400312: orc_drum_big
+    400314: orc_drum_small
+    400316: orc_factory_door
+    400318: orc_factory_Lv1
+    400320: orc_factory_Lv1_chimney
+    400322: orc_factory_Lv1_cog
+    400324: orc_factory_Lv2
+    400326: orc_factory_Lv2_cog_big
+    400328: orc_factory_Lv2_cog_small
+    400330: orc_factory_Lv2_metal_chimney
+    400332: orc_factory_Lv2_wooden_chimney
+    400334: orc_factory_Lv3
+    400336: orc_factory_Lv3_cog_big
+    400338: orc_factory_Lv3_cog_small_01
+    400340: orc_factory_Lv3_cog_small_02
+    400342: orc_factory_Lv3_metal_chimney
+    400344: orc_factory_Lv3_wooden_chimney
+    400346: orc_flag_red
+    400348: orc_guard_tower_Lv1
+    400350: orc_guard_tower_Lv1_flag_back
+    400352: orc_guard_tower_Lv1_flag_left
+    400354: orc_guard_tower_Lv1_flag_right
+    400356: orc_guard_tower_Lv2
+    400358: orc_guard_tower_Lv2_flag_back
+    400360: orc_guard_tower_Lv2_flag_left
+    400362: orc_guard_tower_Lv2_flag_right
+    400364: orc_guard_tower_Lv3_flag_back
+    400366: orc_guard_tower_Lv3_flag_left
+    400368: orc_guard_tower_Lv3_flag_right
+    400370: orc_head_lantern
+    400372: orc_head_lantern_disabled
+    400374: orc_head_lantern_horned
+    400376: orc_high_stand
+    400378: orc_horned_skull
+    400380: orc_house_roof
+    400382: orc_house_wall
+    400384: orc_house_wooden_roof
+    400386: orc_hut_base
+    400388: orc_hut_Lv1
+    400390: orc_hut_Lv2
+    400392: orc_hut_Lv3
+    400394: orc_ladder
+    400396: orc_log
+    400398: orc_log_wall
+    400400: orc_lumberjack_Lv1
+    400402: orc_lumberjack_Lv2
+    400404: orc_lumberjack_Lv2_sawblade_01
+    400406: orc_lumberjack_Lv2_sawblade_02
+    400408: orc_lumberjack_Lv2_wood_feed_01
+    400410: orc_lumberjack_Lv2_wood_feed_02
+    400412: orc_lumberjack_Lv3
+    400414: orc_lumberjack_Lv3_sawblade_1
+    400416: orc_lumberjack_Lv3_sawblade_2
+    400418: orc_lumberjack_Lv3_sawblade_3
+    400420: orc_lumberjack_Lv3_wood_feed_01
+    400422: orc_lumberjack_Lv3_wood_feed_02
+    400424: orc_metal_petch
+    400426: orc_mine_enterance
+    400428: orc_mine_Lv1
+    400430: orc_mine_Lv1_minecart
+    400432: orc_mine_Lv1_minecart_bucket
+    400434: orc_mine_Lv2
+    400436: orc_mine_Lv2_minecart
+    400438: orc_mine_Lv2_minecart_bucket
+    400440: orc_mine_Lv3_minecart
+    400442: orc_mine_Lv3_minecart_bucket
+    400444: orc_mine_rail_piece
+    400446: orc_mine_stone_01
+    400448: orc_mine_stone_02
+    400450: orc_mine_stone_03
+    400452: orc_mine_stone_04
+    400454: orc_mine_stone_05
+    400456: orc_minecart
+    400458: orc_minecart_bucket_anim
+    400460: orc_oven
+    400462: orc_oven_door_big
+    400464: orc_oven_door_small
+    400466: orc_pointed_beam
+    400468: orc_practice_aim
+    400470: orc_practice_dummy
+    400472: orc_sawblade
+    400474: orc_scafolding
+    400476: orc_shield
+    400478: orc_skull
+    400480: orc_smelting_cauldron
+    400482: orc_smithy_Lv1
+    400484: orc_smithy_Lv1_bellow
+    400486: orc_smithy_Lv2
+    400488: orc_smithy_Lv2_bellow
+    400490: orc_smithy_Lv3
+    400492: orc_smithy_Lv3_bellow
+    400494: orc_stair_corner_conc_shade1
+    400496: orc_stair_corner_conc_shade_2
+    400498: orc_stair_corner_conc_shade_3
+    400500: orc_stair_corner_conc_shade_4
+    400502: orc_stair_corner_conc_shade_5
+    400504: orc_stair_corner_conv_shade1
+    400506: orc_stair_corner_conv_shade_2
+    400508: orc_stair_corner_conv_shade_3
+    400510: orc_stair_corner_conv_shade_4
+    400512: orc_stair_corner_conv_shade_5
+    400514: orc_stairs_half_1_shade_1
+    400516: orc_stairs_half_1_shade_2
+    400518: orc_stairs_half_1_shade_3
+    400520: orc_stairs_half_1_shade_4
+    400522: orc_stairs_half_1_shade_5
+    400524: orc_stairs_half_2_shade_1
+    400526: orc_stairs_half_2_shade_2
+    400528: orc_stairs_half_2_shade_3
+    400530: orc_stairs_half_2_shade_4
+    400532: orc_stairs_half_2_shade_5
+    400534: orc_stairs_shade_1
+    400536: orc_stairs_shade_2
+    400538: orc_stairs_shade_3
+    400540: orc_stairs_shade_4
+    400542: orc_stairs_shade_5
+    400544: orc_stone_big
+    400546: orc_stone_circle_L
+    400548: orc_stone_circle_M
+    400550: orc_stone_circle_S
+    400552: orc_stone_mid
+    400554: orc_stone_pillar_big
+    400556: orc_stone_pillar_big_ringed
+    400558: orc_stone_pillar_small
+    400560: orc_stone_pillar_small_ringed
+    400562: orc_stone_roof_high
+    400564: orc_stone_roof_low
+    400566: orc_stone_small
+    400568: orc_throne
+    400570: orc_throne_Lv1
+    400572: orc_throne_Lv1_flag
+    400574: orc_throne_Lv2
+    400576: orc_throne_Lv2_flag
+    400578: orc_throne_Lv3_flag
+    400580: orc_tower_Lv3
+    400582: orc_trunk_berm_L
+    400584: orc_trunk_berm_M
+    400586: orc_trunk_berm_S
+    400588: orc_trunk_berm_XS
+    400590: orc_tusk
+    400592: orc_tusk_cloth
+    400594: orc_tusk_roof
+    400596: orc_tusk_standing
+    400598: orc_window
+    400600: orc_window_shutter
+    400602: orc_wood_pile_big
+    400604: orc_wood_pile_small
+    400606: orc_wooden_chimney_big
+    400608: orc_wooden_chimney_small
+    400610: orc_wooden_roof
+    400612: orcs_floor_stones
+    400614: orcs_throne_Lv3
+    400616: smithy_bellow
+    2100000: proto_orc_rts
+    2300000: cog_big
+    2300002: cog_small_01
+    2300004: mine_Lv3
+    2300006: mine_rail
+    2300008: minecart_base_anim
+    2300010: orc_altar
+    2300012: orc_altar_Lv1
+    2300014: orc_altar_Lv2
+    2300016: orc_altar_Lv3
+    2300018: orc_anvil
+    2300020: orc_anvil_big
+    2300022: orc_axe
+    2300024: orc_banner
+    2300026: orc_barrack_Lv1
+    2300028: orc_barrack_Lv2
+    2300030: orc_barrack_Lv3
+    2300032: orc_barrel
+    2300034: orc_beam
+    2300036: orc_beam_pile
+    2300038: orc_bowl
+    2300040: orc_bowl_full
+    2300042: orc_box_large_1
+    2300044: orc_box_large_2
+    2300046: orc_box_small_1
+    2300048: orc_box_small_2
+    2300050: orc_bucket
+    2300052: orc_cabin
+    2300054: orc_campfire
+    2300056: orc_cauldron_Lv1
+    2300058: orc_cauldron_Lv2
+    2300060: orc_cauldron_Lv3
+    2300062: orc_chimney
+    2300064: orc_door
+    2300066: orc_drum_big
+    2300068: orc_drum_small
+    2300070: orc_factory_door
+    2300072: orc_factory_Lv1
+    2300074: orc_factory_Lv1_chimney
+    2300076: orc_factory_Lv1_cog
+    2300078: orc_factory_Lv2
+    2300080: orc_factory_Lv2_cog_big
+    2300082: orc_factory_Lv2_cog_small
+    2300084: orc_factory_Lv2_metal_chimney
+    2300086: orc_factory_Lv2_wooden_chimney
+    2300088: orc_factory_Lv3
+    2300090: orc_factory_Lv3_cog_big
+    2300092: orc_factory_Lv3_cog_small_01
+    2300094: orc_factory_Lv3_cog_small_02
+    2300096: orc_factory_Lv3_metal_chimney
+    2300098: orc_factory_Lv3_wooden_chimney
+    2300100: orc_flag_red
+    2300102: orc_guard_tower_Lv1
+    2300104: orc_guard_tower_Lv2
+    2300106: orc_head_lantern
+    2300108: orc_head_lantern_disabled
+    2300110: orc_head_lantern_horned
+    2300112: orc_high_stand
+    2300114: orc_horned_skull
+    2300116: orc_house_roof
+    2300118: orc_house_wall
+    2300120: orc_house_wooden_roof
+    2300122: orc_hut_base
+    2300124: orc_hut_Lv1
+    2300126: orc_hut_Lv2
+    2300128: orc_hut_Lv3
+    2300130: orc_ladder
+    2300132: orc_log
+    2300134: orc_log_wall
+    2300136: orc_lumberjack_Lv1
+    2300138: orc_lumberjack_Lv2
+    2300140: orc_lumberjack_Lv2_sawblade_01
+    2300142: orc_lumberjack_Lv2_sawblade_02
+    2300144: orc_lumberjack_Lv2_wood_feed_01
+    2300146: orc_lumberjack_Lv2_wood_feed_02
+    2300148: orc_lumberjack_Lv3
+    2300150: orc_lumberjack_Lv3_sawblade_1
+    2300152: orc_lumberjack_Lv3_sawblade_2
+    2300154: orc_lumberjack_Lv3_sawblade_3
+    2300156: orc_lumberjack_Lv3_wood_feed_01
+    2300158: orc_lumberjack_Lv3_wood_feed_02
+    2300160: orc_metal_petch
+    2300162: orc_mine_enterance
+    2300164: orc_mine_Lv1
+    2300166: orc_mine_Lv1_minecart
+    2300168: orc_mine_Lv1_minecart_bucket
+    2300170: orc_mine_Lv2
+    2300172: orc_mine_Lv2_minecart
+    2300174: orc_mine_Lv2_minecart_bucket
+    2300176: orc_mine_Lv3_minecart
+    2300178: orc_mine_Lv3_minecart_bucket
+    2300180: orc_mine_rail_piece
+    2300182: orc_mine_stone_01
+    2300184: orc_mine_stone_02
+    2300186: orc_mine_stone_03
+    2300188: orc_mine_stone_04
+    2300190: orc_mine_stone_05
+    2300192: orc_minecart
+    2300194: orc_minecart_bucket_anim
+    2300196: orc_oven
+    2300198: orc_oven_door_big
+    2300200: orc_oven_door_small
+    2300202: orc_pointed_beam
+    2300204: orc_practice_aim
+    2300206: orc_practice_dummy
+    2300208: orc_sawblade
+    2300210: orc_scafolding
+    2300212: orc_shield
+    2300214: orc_skull
+    2300216: orc_smelting_cauldron
+    2300218: orc_smithy_Lv1
+    2300220: orc_smithy_Lv2
+    2300222: orc_smithy_Lv3
+    2300224: orc_stair_corner_conc_shade1
+    2300226: orc_stair_corner_conc_shade_2
+    2300228: orc_stair_corner_conc_shade_3
+    2300230: orc_stair_corner_conc_shade_4
+    2300232: orc_stair_corner_conc_shade_5
+    2300234: orc_stair_corner_conv_shade1
+    2300236: orc_stair_corner_conv_shade_2
+    2300238: orc_stair_corner_conv_shade_3
+    2300240: orc_stair_corner_conv_shade_4
+    2300242: orc_stair_corner_conv_shade_5
+    2300244: orc_stairs_half_1_shade_1
+    2300246: orc_stairs_half_1_shade_2
+    2300248: orc_stairs_half_1_shade_3
+    2300250: orc_stairs_half_1_shade_4
+    2300252: orc_stairs_half_1_shade_5
+    2300254: orc_stairs_half_2_shade_1
+    2300256: orc_stairs_half_2_shade_2
+    2300258: orc_stairs_half_2_shade_3
+    2300260: orc_stairs_half_2_shade_4
+    2300262: orc_stairs_half_2_shade_5
+    2300264: orc_stairs_shade_1
+    2300266: orc_stairs_shade_2
+    2300268: orc_stairs_shade_3
+    2300270: orc_stairs_shade_4
+    2300272: orc_stairs_shade_5
+    2300274: orc_stone_big
+    2300276: orc_stone_circle_L
+    2300278: orc_stone_circle_M
+    2300280: orc_stone_circle_S
+    2300282: orc_stone_mid
+    2300284: orc_stone_pillar_big
+    2300286: orc_stone_pillar_big_ringed
+    2300288: orc_stone_pillar_small
+    2300290: orc_stone_pillar_small_ringed
+    2300292: orc_stone_roof_high
+    2300294: orc_stone_roof_low
+    2300296: orc_stone_small
+    2300298: orc_throne
+    2300300: orc_throne_Lv1
+    2300302: orc_throne_Lv2
+    2300304: orc_tower_Lv3
+    2300306: orc_trunk_berm_L
+    2300308: orc_trunk_berm_M
+    2300310: orc_trunk_berm_S
+    2300312: orc_trunk_berm_XS
+    2300314: orc_tusk
+    2300316: orc_tusk_cloth
+    2300318: orc_tusk_roof
+    2300320: orc_tusk_standing
+    2300322: orc_window
+    2300324: orc_window_shutter
+    2300326: orc_wood_pile_big
+    2300328: orc_wood_pile_small
+    2300330: orc_wooden_chimney_big
+    2300332: orc_wooden_chimney_small
+    2300334: orc_wooden_roof
+    2300336: orcs_floor_stones
+    2300338: orcs_throne_Lv3
+    3300000: cog_big
+    3300002: cog_small_01
+    3300004: mine_Lv3
+    3300006: mine_rail
+    3300008: minecart_base_anim
+    3300010: orc_altar
+    3300012: orc_altar_Lv1
+    3300014: orc_altar_Lv2
+    3300016: orc_altar_Lv3
+    3300018: orc_anvil
+    3300020: orc_anvil_big
+    3300022: orc_axe
+    3300024: orc_banner
+    3300026: orc_barrack_Lv1
+    3300028: orc_barrack_Lv2
+    3300030: orc_barrack_Lv3
+    3300032: orc_barrel
+    3300034: orc_beam
+    3300036: orc_beam_pile
+    3300038: orc_bowl
+    3300040: orc_bowl_full
+    3300042: orc_box_large_1
+    3300044: orc_box_large_2
+    3300046: orc_box_small_1
+    3300048: orc_box_small_2
+    3300050: orc_bucket
+    3300052: orc_cabin
+    3300054: orc_campfire
+    3300056: orc_cauldron_Lv1
+    3300058: orc_cauldron_Lv2
+    3300060: orc_cauldron_Lv3
+    3300062: orc_chimney
+    3300064: orc_door
+    3300066: orc_drum_big
+    3300068: orc_drum_small
+    3300070: orc_factory_door
+    3300072: orc_factory_Lv1
+    3300074: orc_factory_Lv1_chimney
+    3300076: orc_factory_Lv1_cog
+    3300078: orc_factory_Lv2
+    3300080: orc_factory_Lv2_cog_big
+    3300082: orc_factory_Lv2_cog_small
+    3300084: orc_factory_Lv2_metal_chimney
+    3300086: orc_factory_Lv2_wooden_chimney
+    3300088: orc_factory_Lv3
+    3300090: orc_factory_Lv3_cog_big
+    3300092: orc_factory_Lv3_cog_small_01
+    3300094: orc_factory_Lv3_cog_small_02
+    3300096: orc_factory_Lv3_metal_chimney
+    3300098: orc_factory_Lv3_wooden_chimney
+    3300100: orc_flag_red
+    3300102: orc_guard_tower_Lv1
+    3300104: orc_guard_tower_Lv2
+    3300106: orc_head_lantern
+    3300108: orc_head_lantern_disabled
+    3300110: orc_head_lantern_horned
+    3300112: orc_high_stand
+    3300114: orc_horned_skull
+    3300116: orc_house_roof
+    3300118: orc_house_wall
+    3300120: orc_house_wooden_roof
+    3300122: orc_hut_base
+    3300124: orc_hut_Lv1
+    3300126: orc_hut_Lv2
+    3300128: orc_hut_Lv3
+    3300130: orc_ladder
+    3300132: orc_log
+    3300134: orc_log_wall
+    3300136: orc_lumberjack_Lv1
+    3300138: orc_lumberjack_Lv2
+    3300140: orc_lumberjack_Lv2_sawblade_01
+    3300142: orc_lumberjack_Lv2_sawblade_02
+    3300144: orc_lumberjack_Lv2_wood_feed_01
+    3300146: orc_lumberjack_Lv2_wood_feed_02
+    3300148: orc_lumberjack_Lv3
+    3300150: orc_lumberjack_Lv3_sawblade_1
+    3300152: orc_lumberjack_Lv3_sawblade_2
+    3300154: orc_lumberjack_Lv3_sawblade_3
+    3300156: orc_lumberjack_Lv3_wood_feed_01
+    3300158: orc_lumberjack_Lv3_wood_feed_02
+    3300160: orc_metal_petch
+    3300162: orc_mine_enterance
+    3300164: orc_mine_Lv1
+    3300166: orc_mine_Lv1_minecart
+    3300168: orc_mine_Lv1_minecart_bucket
+    3300170: orc_mine_Lv2
+    3300172: orc_mine_Lv2_minecart
+    3300174: orc_mine_Lv2_minecart_bucket
+    3300176: orc_mine_Lv3_minecart
+    3300178: orc_mine_Lv3_minecart_bucket
+    3300180: orc_mine_rail_piece
+    3300182: orc_mine_stone_01
+    3300184: orc_mine_stone_02
+    3300186: orc_mine_stone_03
+    3300188: orc_mine_stone_04
+    3300190: orc_mine_stone_05
+    3300192: orc_minecart
+    3300194: orc_minecart_bucket_anim
+    3300196: orc_oven
+    3300198: orc_oven_door_big
+    3300200: orc_oven_door_small
+    3300202: orc_pointed_beam
+    3300204: orc_practice_aim
+    3300206: orc_practice_dummy
+    3300208: orc_sawblade
+    3300210: orc_scafolding
+    3300212: orc_shield
+    3300214: orc_skull
+    3300216: orc_smelting_cauldron
+    3300218: orc_smithy_Lv1
+    3300220: orc_smithy_Lv2
+    3300222: orc_smithy_Lv3
+    3300224: orc_stair_corner_conc_shade1
+    3300226: orc_stair_corner_conc_shade_2
+    3300228: orc_stair_corner_conc_shade_3
+    3300230: orc_stair_corner_conc_shade_4
+    3300232: orc_stair_corner_conc_shade_5
+    3300234: orc_stair_corner_conv_shade1
+    3300236: orc_stair_corner_conv_shade_2
+    3300238: orc_stair_corner_conv_shade_3
+    3300240: orc_stair_corner_conv_shade_4
+    3300242: orc_stair_corner_conv_shade_5
+    3300244: orc_stairs_half_1_shade_1
+    3300246: orc_stairs_half_1_shade_2
+    3300248: orc_stairs_half_1_shade_3
+    3300250: orc_stairs_half_1_shade_4
+    3300252: orc_stairs_half_1_shade_5
+    3300254: orc_stairs_half_2_shade_1
+    3300256: orc_stairs_half_2_shade_2
+    3300258: orc_stairs_half_2_shade_3
+    3300260: orc_stairs_half_2_shade_4
+    3300262: orc_stairs_half_2_shade_5
+    3300264: orc_stairs_shade_1
+    3300266: orc_stairs_shade_2
+    3300268: orc_stairs_shade_3
+    3300270: orc_stairs_shade_4
+    3300272: orc_stairs_shade_5
+    3300274: orc_stone_big
+    3300276: orc_stone_circle_L
+    3300278: orc_stone_circle_M
+    3300280: orc_stone_circle_S
+    3300282: orc_stone_mid
+    3300284: orc_stone_pillar_big
+    3300286: orc_stone_pillar_big_ringed
+    3300288: orc_stone_pillar_small
+    3300290: orc_stone_pillar_small_ringed
+    3300292: orc_stone_roof_high
+    3300294: orc_stone_roof_low
+    3300296: orc_stone_small
+    3300298: orc_throne
+    3300300: orc_throne_Lv1
+    3300302: orc_throne_Lv2
+    3300304: orc_tower_Lv3
+    3300306: orc_trunk_berm_L
+    3300308: orc_trunk_berm_M
+    3300310: orc_trunk_berm_S
+    3300312: orc_trunk_berm_XS
+    3300314: orc_tusk
+    3300316: orc_tusk_cloth
+    3300318: orc_tusk_roof
+    3300320: orc_tusk_standing
+    3300322: orc_window
+    3300324: orc_window_shutter
+    3300326: orc_wood_pile_big
+    3300328: orc_wood_pile_small
+    3300330: orc_wooden_chimney_big
+    3300332: orc_wooden_chimney_small
+    3300334: orc_wooden_roof
+    3300336: orcs_floor_stones
+    3300338: orcs_throne_Lv3
+    4300000: orc_altar
+    4300002: orc_anvil
+    4300004: orc_anvil_big
+    4300006: orc_axe
+    4300008: orc_barrel
+    4300010: orc_beam
+    4300012: orc_beam_pile
+    4300014: orc_bowl
+    4300016: orc_bowl_full
+    4300018: orc_box_large_1
+    4300020: orc_box_large_2
+    4300022: orc_box_small_1
+    4300024: orc_box_small_2
+    4300026: orc_bucket
+    4300028: orc_cabin
+    4300030: orc_campfire
+    4300032: orc_chimney
+    4300034: orc_door
+    4300036: orc_drum_big
+    4300038: orc_drum_small
+    4300040: orc_factory_door
+    4300042: orc_flag_red
+    4300044: orc_head_lantern
+    4300046: orc_head_lantern_disabled
+    4300048: orc_head_lantern_horned
+    4300050: orc_high_stand
+    4300052: orc_horned_skull
+    4300054: orc_house_roof
+    4300056: orc_house_wall
+    4300058: orc_house_wooden_roof
+    4300060: orc_hut_base
+    4300062: orc_ladder
+    4300064: orc_log
+    4300066: orc_log_wall
+    4300068: orc_metal_petch
+    4300070: orc_mine_enterance
+    4300072: orc_mine_rail_piece
+    4300074: orc_mine_stone_01
+    4300076: orc_mine_stone_02
+    4300078: orc_mine_stone_03
+    4300080: orc_mine_stone_04
+    4300082: orc_mine_stone_05
+    4300084: orc_minecart
+    4300086: orc_minecart_bucket_anim
+    4300088: orc_oven
+    4300090: orc_oven_door_big
+    4300092: orc_oven_door_small
+    4300094: orc_pointed_beam
+    4300096: orc_practice_aim
+    4300098: orc_practice_dummy
+    4300100: orc_sawblade
+    4300102: orc_scafolding
+    4300104: orc_shield
+    4300106: orc_skull
+    4300108: orc_smelting_cauldron
+    4300110: orc_stair_corner_conc_shade1
+    4300112: orc_stair_corner_conc_shade_2
+    4300114: orc_stair_corner_conc_shade_3
+    4300116: orc_stair_corner_conc_shade_4
+    4300118: orc_stair_corner_conc_shade_5
+    4300120: orc_stair_corner_conv_shade1
+    4300122: orc_stair_corner_conv_shade_2
+    4300124: orc_stair_corner_conv_shade_3
+    4300126: orc_stair_corner_conv_shade_4
+    4300128: orc_stair_corner_conv_shade_5
+    4300130: orc_stairs_half_1_shade_1
+    4300132: orc_stairs_half_1_shade_2
+    4300134: orc_stairs_half_1_shade_3
+    4300136: orc_stairs_half_1_shade_4
+    4300138: orc_stairs_half_1_shade_5
+    4300140: orc_stairs_half_2_shade_1
+    4300142: orc_stairs_half_2_shade_2
+    4300144: orc_stairs_half_2_shade_3
+    4300146: orc_stairs_half_2_shade_4
+    4300148: orc_stairs_half_2_shade_5
+    4300150: orc_stairs_shade_1
+    4300152: orc_stairs_shade_2
+    4300154: orc_stairs_shade_3
+    4300156: orc_stairs_shade_4
+    4300158: orc_stairs_shade_5
+    4300160: orc_stone_big
+    4300162: orc_stone_circle_L
+    4300164: orc_stone_circle_M
+    4300166: orc_stone_circle_S
+    4300168: orc_stone_mid
+    4300170: orc_stone_pillar_big
+    4300172: orc_stone_pillar_big_ringed
+    4300174: orc_stone_pillar_small
+    4300176: orc_stone_pillar_small_ringed
+    4300178: orc_stone_roof_high
+    4300180: orc_stone_roof_low
+    4300182: orc_stone_small
+    4300184: orc_throne
+    4300186: orc_trunk_berm_L
+    4300188: orc_trunk_berm_M
+    4300190: orc_trunk_berm_S
+    4300192: orc_trunk_berm_XS
+    4300194: orc_tusk
+    4300196: orc_tusk_cloth
+    4300198: orc_tusk_roof
+    4300200: orc_tusk_standing
+    4300202: orc_window
+    4300204: orc_window_shutter
+    4300206: orc_wood_pile_big
+    4300208: orc_wood_pile_small
+    4300210: orc_wooden_chimney_big
+    4300212: orc_wooden_chimney_small
+    4300214: orc_wooden_roof
+    4300216: orcs_floor_stones
+    4300218: cog_big
+    4300220: cog_small_01
+    4300222: orc_banner_flag_2
+    4300224: orc_altar_lantern_1
+    4300226: orc_altar_lantern_2
+    4300228: orc_altar_lantern_3
+    4300230: smithy_bellow
+    4300232: orc_cauldron
+    4300234: mine_rail
+    4300236: minecart_base_anim
+    4300238: orc_barrack_Lv1
+    4300240: orc_barrack_Lv2
+    4300242: orc_barrack_Lv3
+    4300244: orc_hut_Lv1
+    4300246: orc_hut_Lv2
+    4300248: orc_hut_Lv3
+    4300250: orc_mine_Lv1
+    4300252: orc_mine_Lv1_minecart
+    4300254: orc_mine_Lv1_minecart_bucket
+    4300256: orc_mine_Lv2
+    4300258: orc_mine_Lv2_minecart
+    4300260: orc_mine_Lv2_minecart_bucket
+    4300262: mine_Lv3
+    4300264: orc_mine_Lv3_minecart
+    4300266: orc_mine_Lv3_minecart_bucket
+    4300268: orc_banner
+    4300270: orc_banner_flag
+    4300272: orc_cauldron_cauldron_Lv1
+    4300274: orc_cauldron_Lv1
+    4300276: orc_cauldron_cauldron_Lv2
+    4300278: orc_cauldron_Lv2
+    4300280: orc_cauldron_cauldron_Lv3
+    4300282: orc_cauldron_Lv3
+    4300284: orc_factory_Lv1
+    4300286: orc_factory_Lv1_chimney
+    4300288: orc_factory_Lv1_cog
+    4300290: orc_factory_Lv2
+    4300292: orc_factory_Lv2_cog_big
+    4300294: orc_factory_Lv2_cog_small
+    4300296: orc_factory_Lv2_metal_chimney
+    4300298: orc_factory_Lv2_wooden_chimney
+    4300300: orc_factory_Lv3
+    4300302: orc_factory_Lv3_cog_big
+    4300304: orc_factory_Lv3_cog_small_01
+    4300306: orc_factory_Lv3_cog_small_02
+    4300308: orc_factory_Lv3_metal_chimney
+    4300310: orc_factory_Lv3_wooden_chimney
+    4300312: orc_altar_Lv2
+    4300314: orc_altar_Lv2_lantern
+    4300316: orc_altar_Lv3
+    4300318: orc_altar_Lv3_lantern
+    4300320: orc_smithy_Lv1
+    4300322: orc_smithy_Lv1_bellow
+    4300324: orc_smithy_Lv2
+    4300326: orc_smithy_Lv2_bellow
+    4300328: orc_smithy_Lv3
+    4300330: orc_smithy_Lv3_bellow
+    4300332: orc_throne_Lv1
+    4300334: orc_throne_Lv1_flag
+    4300336: orc_throne_Lv2
+    4300338: orc_throne_Lv2_flag
+    4300340: orc_throne_Lv3_flag
+    4300342: orcs_throne_Lv3
+    4300344: orc_guard_tower_Lv1
+    4300346: orc_guard_tower_Lv1_flag_back
+    4300348: orc_guard_tower_Lv1_flag_left
+    4300350: orc_guard_tower_Lv1_flag_right
+    4300352: orc_guard_tower_Lv2
+    4300354: orc_guard_tower_Lv2_flag_back
+    4300356: orc_guard_tower_Lv2_flag_left
+    4300358: orc_guard_tower_Lv2_flag_right
+    4300360: orc_guard_tower_Lv3_flag_back
+    4300362: orc_guard_tower_Lv3_flag_left
+    4300364: orc_guard_tower_Lv3_flag_right
+    4300366: orc_tower_Lv3
+    4300368: orc_lumberjack_Lv1
+    4300370: orc_lumberjack_Lv2
+    4300372: orc_lumberjack_Lv2_wood_feed_01
+    4300374: orc_lumberjack_Lv2_wood_feed_02
+    4300376: orc_lumberjack_Lv2_sawblade_01
+    4300378: orc_lumberjack_Lv2_sawblade_02
+    4300380: orc_lumberjack_Lv3
+    4300382: orc_lumberjack_Lv3_wood_feed_01
+    4300384: orc_lumberjack_Lv3_wood_feed_02
+    4300386: orc_lumberjack_Lv3_sawblade_1
+    4300388: orc_lumberjack_Lv3_sawblade_2
+    4300390: orc_lumberjack_Lv3_sawblade_3
+    4300392: orc_altar_Lv1
+    4300394: orc_altar_Lv1_lantern
+    7400000: Scene
+    9500000: //RootNode
+    13700000: orc_altar_lantern_1
+    13700002: orc_altar_lantern_2
+    13700004: orc_altar_lantern_3
+    13700006: orc_altar_Lv1_lantern
+    13700008: orc_altar_Lv2_lantern
+    13700010: orc_altar_Lv3_lantern
+    13700012: orc_banner_flag
+    13700014: orc_banner_flag_2
+    13700016: orc_cauldron
+    13700018: orc_cauldron_cauldron_Lv1
+    13700020: orc_cauldron_cauldron_Lv2
+    13700022: orc_cauldron_cauldron_Lv3
+    13700024: orc_guard_tower_Lv1_flag_back
+    13700026: orc_guard_tower_Lv1_flag_left
+    13700028: orc_guard_tower_Lv1_flag_right
+    13700030: orc_guard_tower_Lv2_flag_back
+    13700032: orc_guard_tower_Lv2_flag_left
+    13700034: orc_guard_tower_Lv2_flag_right
+    13700036: orc_guard_tower_Lv3_flag_back
+    13700038: orc_guard_tower_Lv3_flag_left
+    13700040: orc_guard_tower_Lv3_flag_right
+    13700042: orc_smithy_Lv1_bellow
+    13700044: orc_smithy_Lv2_bellow
+    13700046: orc_smithy_Lv3_bellow
+    13700048: orc_throne_Lv1_flag
+    13700050: orc_throne_Lv2_flag
+    13700052: orc_throne_Lv3_flag
+    13700054: smithy_bellow
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: proto_orc_rts
+    second: {fileID: 2100000, guid: e58c5ae5678ca12478d8c209b344dcff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

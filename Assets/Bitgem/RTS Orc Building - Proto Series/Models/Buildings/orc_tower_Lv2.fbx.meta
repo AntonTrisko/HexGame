@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 48b9fdb055d751240ab960ddcd821fa2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armiture_orc_tower_Lv2_flag_back
+    100002: Armiture_orc_tower_Lv2_flag_left
+    100004: Armiture_orc_tower_Lv2_flag_right
+    100006: Bone_01
+    100008: Bone_01 1
+    100010: Bone_01 2
+    100012: Bone_02
+    100014: Bone_02 1
+    100016: Bone_02 2
+    100018: Bone_root
+    100020: Bone_root 1
+    100022: Bone_root 2
+    100024: orc_guard_tower_Lv2
+    100026: orc_guard_tower_Lv2_flag_back
+    100028: orc_guard_tower_Lv2_flag_left
+    100030: orc_guard_tower_Lv2_flag_right
+    100032: //RootNode
+    400000: Armiture_orc_tower_Lv2_flag_back
+    400002: Armiture_orc_tower_Lv2_flag_left
+    400004: Armiture_orc_tower_Lv2_flag_right
+    400006: Bone_01
+    400008: Bone_01 1
+    400010: Bone_01 2
+    400012: Bone_02
+    400014: Bone_02 1
+    400016: Bone_02 2
+    400018: Bone_root
+    400020: Bone_root 1
+    400022: Bone_root 2
+    400024: orc_guard_tower_Lv2
+    400026: orc_guard_tower_Lv2_flag_back
+    400028: orc_guard_tower_Lv2_flag_left
+    400030: orc_guard_tower_Lv2_flag_right
+    400032: //RootNode
+    2100000: proto_orc_rts
+    2300000: orc_guard_tower_Lv2
+    3300000: orc_guard_tower_Lv2
+    4300000: orc_guard_tower_Lv2
+    4300002: orc_guard_tower_Lv2_flag_right
+    4300004: orc_guard_tower_Lv2_flag_back
+    4300006: orc_guard_tower_Lv2_flag_left
+    7400000: orc_tower_Lv2
+    9500000: //RootNode
+    13700000: orc_guard_tower_Lv2_flag_back
+    13700002: orc_guard_tower_Lv2_flag_left
+    13700004: orc_guard_tower_Lv2_flag_right
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: proto_orc_rts
+    second: {fileID: 2100000, guid: e58c5ae5678ca12478d8c209b344dcff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: orc_tower_Lv2
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

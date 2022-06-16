@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: b69c6b91dc93940efb04a58ee960b4ed
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Armature.001
+  - first:
+      1: 100002
+    second: base
+  - first:
+      1: 100004
+    second: elf_cog_small.001
+  - first:
+      1: 100006
+    second: //RootNode
+  - first:
+      1: 100008
+    second: rot
+  - first:
+      4: 400000
+    second: Armature.001
+  - first:
+      4: 400002
+    second: base
+  - first:
+      4: 400004
+    second: elf_cog_small.001
+  - first:
+      4: 400006
+    second: //RootNode
+  - first:
+      4: 400008
+    second: rot
+  - first:
+      21: 2100000
+    second: proto_elf_rts
+  - first:
+      23: 2300000
+    second: elf_cog_small.001
+  - first:
+      33: 3300000
+    second: elf_cog_small.001
+  - first:
+      43: 4300000
+    second: elf_cog_small.001
+  - first:
+      74: 7400000
+    second: FBX_Temp.004
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: elf_cog_small.001
+  - first:
+      74: -8639993316982285888
+    second: Armature.001|ArmatureAction.001
+  - first:
+      74: 1570611337149101020
+    second: elf_cog_small_loop
+  - first:
+      74: -9126003838388519604
+    second: Armature.001|ArmatureAction.004
+  - first:
+      74: 466967323330049030
+    second: Armature.001|ArmatureAction.005
+  - first:
+      74: -8297846946275160071
+    second: Armature.001|barrack_Lv3_door_handler|Scene|Scene
+  - first:
+      74: -4805797476214356048
+    second: Armature.001|barrack_Lv3_door|Scene|Scene
+  - first:
+      74: 903237443042610063
+    second: Armature.001|house_Lv3_door|door_handler_open_close|door_handler_open_close
+  - first:
+      74: 730206707728249472
+    second: Armature.001|house_Lv3_door|door_open_close|door_open_close
+  - first:
+      74: -4827198358634982286
+    second: Armature.001|house_Lv3_handler|door_handler_open_close|door_handler_open_clo
+  - first:
+      74: -7429200533294191153
+    second: Armature.001|house_Lv3_handler|door_open_close|door_open_close
+  - first:
+      74: -6976400020506745358
+    second: Armature.001|house_Lv3|door_handler_open_close|door_handler_open_close
+  - first:
+      74: 7386258469573031656
+    second: Armature.001|house_Lv3|door_open_close|door_open_close
+  - first:
+      74: -3601223908661852788
+    second: Armature.001|smithy_Lv3_door_handler_left|Scene|Scene
+  - first:
+      74: -2504711748783105192
+    second: Armature.001|smithy_Lv3_door_handler_right|Scene|Scene
+  - first:
+      74: 7856205550623532529
+    second: Armature.001|smithy_Lv3_door_left|Scene|Scene
+  - first:
+      74: 512741151086998081
+    second: Armature.001|smithy_Lv3_door_right|Scene|Scene
+  - first:
+      74: -7536760882264817836
+    second: Armature.001|tower_Lv3_door_handler|Scene|Scene
+  - first:
+      74: -2999670972061647832
+    second: Armature.001|tower_Lv3_door|Scene|Scene
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: proto_elf_rts
+    second: {fileID: 2100000, guid: 2ce7403c753ad4f0f9324441238c2ed6, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: elf_cog_small_loop
+      takeName: Armature.001|ArmatureAction.002
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

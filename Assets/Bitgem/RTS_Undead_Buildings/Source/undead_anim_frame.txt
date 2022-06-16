@@ -1,0 +1,31 @@
+buildings
+undead_woodcutter: loop 0-80
+undead_mine: in 0-40, out 41-83, tip_in_out 84-121
+undead_barrack: open 0-25, close 28-55
+undead_throne: loop 0-80
+undead_oracle: 0-120
+undead_smith_Lv1: loop 55-135, open 0-25, close 28-55
+undead_smith_Lv2: loop 110-200, small_door_open 0-25, small_door_close 28-55, big_door_open 55-81, big_door_close 82-110
+undead_smith_Lv3: loop 110-200, small_door_open 0-25, small_door_close 28-55, big_door_open 55-81, big_door_close 82-110
+undead_cauldron: loop 0-80
+undead_factory: open 0-25, close 28-55, loop 55-255
+undead_tower: open 0-25, close 28-55
+undead_house: open 0-25, close 28-55
+undead_banner: loop 1-80
+
+parts:
+undead_saw_blade: loop 0-80
+undead_gear_small: loop 0-200
+undead_smithy_house: loop 0-80
+undead_floating_stone: loop 0-120
+undead_floating_coffin: loop 0-120
+undead_flag: loop 0-80
+undead_door_anim: open 0-25, close 28-55
+undead_cauldron: loop 0-80
+undead_cauldskull: loop 0-80
+undad_minecart_bucket_anim: tip_in_out 0-55
+undead_mine_rail_anim: in 0-40, out 41-83
+undead_big door: open 0-27, close 28-55
+undead_undead_gear_big: loop 0-200
+undead_gear_mid: loop 0-200
+

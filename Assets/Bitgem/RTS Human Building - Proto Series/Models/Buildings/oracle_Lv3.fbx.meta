@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: f184531f041a85b41b258855e17ef116
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature_oracle_cauldron_Lv3
+    100002: Armiture_oracle_Lv3_flag_back
+    100004: Armiture_oracle_Lv3_flag_front
+    100006: Armiture_oracle_Lv3_lamp_center_left
+    100008: Armiture_oracle_Lv3_lamp_center_right
+    100010: Armiture_oracle_Lv3_lamp_front_left
+    100012: Armiture_oracle_Lv3_lamp_front_right
+    100014: Armiture_oracle_Lv3_lamp_side_left
+    100016: Armiture_oracle_Lv3_lamp_side_left_2
+    100018: Armiture_oracle_Lv3_lamp_side_right
+    100020: Armiture_oracle_Lv3_lamp_side_right_2
+    100022: Bone_01
+    100024: Bone_01 1
+    100026: Bone_01 2
+    100028: Bone_01 3
+    100030: Bone_01 4
+    100032: Bone_01 5
+    100034: Bone_01 6
+    100036: Bone_01 7
+    100038: Bone_01 8
+    100040: Bone_01 9
+    100042: Bone_02
+    100044: Bone_02 1
+    100046: Bone_02 2
+    100048: Bone_02 3
+    100050: Bone_02 4
+    100052: Bone_02 5
+    100054: Bone_02 6
+    100056: Bone_02 7
+    100058: Bone_02 8
+    100060: Bone_02 9
+    100062: Bone_bubble_big
+    100064: Bone_bubble_mid
+    100066: Bone_bubble_small
+    100068: Bone_cauldron
+    100070: Bone_cauldron_handler_01
+    100072: Bone_cauldron_handler_02
+    100074: Bone_cauldron_handler_03
+    100076: Bone_root
+    100078: bone_root
+    100080: Bone_root 1
+    100082: Bone_root 2
+    100084: Bone_root 3
+    100086: Bone_root 4
+    100088: Bone_root 5
+    100090: Bone_root 6
+    100092: Bone_root 7
+    100094: Bone_root 8
+    100096: Bone_root 9
+    100098: oracle_Lv3
+    100100: //RootNode
+    100102: oracle_Lv3_cauldron
+    100104: oracle_Lv3_flag_back
+    100106: oracle_Lv3_flag_front
+    100108: oracle_Lv3_lamp_center_left
+    100110: oracle_Lv3_lamp_center_left.001
+    100112: oracle_Lv3_lamp_center_right
+    100114: oracle_Lv3_lamp_front_left
+    100116: oracle_Lv3_lamp_side_left
+    100118: oracle_Lv3_lamp_side_left_2
+    100120: oracle_Lv3_lamp_side_right
+    100122: oracle_Lv3_lamp_side_right_2
+    400000: Armature_oracle_cauldron_Lv3
+    400002: Armiture_oracle_Lv3_flag_back
+    400004: Armiture_oracle_Lv3_flag_front
+    400006: Armiture_oracle_Lv3_lamp_center_left
+    400008: Armiture_oracle_Lv3_lamp_center_right
+    400010: Armiture_oracle_Lv3_lamp_front_left
+    400012: Armiture_oracle_Lv3_lamp_front_right
+    400014: Armiture_oracle_Lv3_lamp_side_left
+    400016: Armiture_oracle_Lv3_lamp_side_left_2
+    400018: Armiture_oracle_Lv3_lamp_side_right
+    400020: Armiture_oracle_Lv3_lamp_side_right_2
+    400022: Bone_01
+    400024: Bone_01 1
+    400026: Bone_01 2
+    400028: Bone_01 3
+    400030: Bone_01 4
+    400032: Bone_01 5
+    400034: Bone_01 6
+    400036: Bone_01 7
+    400038: Bone_01 8
+    400040: Bone_01 9
+    400042: Bone_02
+    400044: Bone_02 1
+    400046: Bone_02 2
+    400048: Bone_02 3
+    400050: Bone_02 4
+    400052: Bone_02 5
+    400054: Bone_02 6
+    400056: Bone_02 7
+    400058: Bone_02 8
+    400060: Bone_02 9
+    400062: Bone_bubble_big
+    400064: Bone_bubble_mid
+    400066: Bone_bubble_small
+    400068: Bone_cauldron
+    400070: Bone_cauldron_handler_01
+    400072: Bone_cauldron_handler_02
+    400074: Bone_cauldron_handler_03
+    400076: Bone_root
+    400078: bone_root
+    400080: Bone_root 1
+    400082: Bone_root 2
+    400084: Bone_root 3
+    400086: Bone_root 4
+    400088: Bone_root 5
+    400090: Bone_root 6
+    400092: Bone_root 7
+    400094: Bone_root 8
+    400096: Bone_root 9
+    400098: oracle_Lv3
+    400100: //RootNode
+    400102: oracle_Lv3_cauldron
+    400104: oracle_Lv3_flag_back
+    400106: oracle_Lv3_flag_front
+    400108: oracle_Lv3_lamp_center_left
+    400110: oracle_Lv3_lamp_center_left.001
+    400112: oracle_Lv3_lamp_center_right
+    400114: oracle_Lv3_lamp_front_left
+    400116: oracle_Lv3_lamp_side_left
+    400118: oracle_Lv3_lamp_side_left_2
+    400120: oracle_Lv3_lamp_side_right
+    400122: oracle_Lv3_lamp_side_right_2
+    2100000: proto_human_rts
+    2300000: oracle_Lv3
+    3300000: oracle_Lv3
+    4300000: oracle_Lv3
+    4300002: oracle_Lv3_cauldron
+    4300004: oracle_Lv3_lamp_center_right
+    4300006: oracle_Lv3_lamp_center_left
+    4300008: oracle_Lv3_lamp_side_left
+    4300010: oracle_Lv3_lamp_side_right
+    4300012: oracle_Lv3_flag_front
+    4300014: oracle_Lv3_flag_back
+    4300016: oracle_Lv3_lamp_center_left.001
+    4300018: oracle_Lv3_lamp_front_left
+    4300020: oracle_Lv3_lamp_side_left_2
+    4300022: oracle_Lv3_lamp_side_right_2
+    7400000: oracle_Lv3
+    9500000: //RootNode
+    13700000: oracle_Lv3_cauldron
+    13700002: oracle_Lv3_flag_back
+    13700004: oracle_Lv3_flag_front
+    13700006: oracle_Lv3_lamp_center_left
+    13700008: oracle_Lv3_lamp_center_left.001
+    13700010: oracle_Lv3_lamp_center_right
+    13700012: oracle_Lv3_lamp_front_left
+    13700014: oracle_Lv3_lamp_side_left
+    13700016: oracle_Lv3_lamp_side_left_2
+    13700018: oracle_Lv3_lamp_side_right
+    13700020: oracle_Lv3_lamp_side_right_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: proto_human_rts
+    second: {fileID: 2100000, guid: 7bd7911789f815d44ad2df74720fd943, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: oracle_Lv3
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
