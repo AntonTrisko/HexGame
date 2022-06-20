@@ -1,7 +1,0 @@
-Version 1.0.0
--Initial release
-
-Version 1.0.1
--Added map grid display at Play mode
--Added new utility scripts
--Fixed code style formatting
